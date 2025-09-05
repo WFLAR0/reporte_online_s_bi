@@ -760,8 +760,8 @@ Fecha_gestion;correo_eds;nombre_eds;dni_cliente;gestion_eds;celular_cliente;COME
 2025-09-03 11:36:00;vticona@cajalosandes.pe;VANESA TICONA ROQUE;01862347;SE ACERCARA A DESEMBOLSAR-;910570164;Cliente se acercara a ventanilla una vez llegue a la ciudad de. Ilave  se cerró venta por llamada telefónica ;;2;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
 2025-09-04 18:45:00;vticona@cajalosandes.pe;VANESA TICONA ROQUE;01862347;SE ACERCARA A DESEMBOLSAR-;910570164;cliente vendra a desembolsar el dia viernes ;;3;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
 2025-09-04 17:54:00;tfloresq@cajalosandes.pe;TONY BRAYAN FLORES QUISPE;01862358;CLIENTE EN DUDA-;914677084;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
-2025-09-03 15:01:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;01862755;APAGADO-;900582433;;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 15:01:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;01862755;APAGADO-;941055092;;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:01:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;01862755;APAGADO-;941055092;;;1;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:01:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;01862755;APAGADO-;900582433;;;2;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;01862755;EQUIVOCADO-;991407044;;;3;Se puede gestionar;No contactado;Equivocado;Equivocado
 2025-09-04 16:59:00;lfloresa@cajalosandes.pe;LISETH ISABEL FLORES APAZA;01863902;NO CONTESTA-;949942270;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-03 12:46:00;vticona@cajalosandes.pe;VANESA TICONA ROQUE;01863943;NO CONTESTA-;971109504;;;1;Se puede gestionar;No contactado;No contesto;No contesto
@@ -2036,8 +2036,8 @@ Fecha_gestion;correo_eds;nombre_eds;dni_cliente;gestion_eds;celular_cliente;COME
 2025-09-04 18:07:00;jlaura@cajalosandes.pe;JULISSA MILY LAURA UNCHUPAICO;21005364;CLIENTE EN DUDA-;917402540;;;2;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-01 17:45:00;jlaura@cajalosandes.pe;JULISSA MILY LAURA UNCHUPAICO;21006717;APAGADO-;964011947;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 12:14:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;21010483;NO CONTESTA-;948845543;no contesta la llamada;;1;Se puede gestionar;No contactado;No contesto;No contesto
-2025-09-03 12:15:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;21010483;APAGADO-;904053757;numero sin servicio ;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 12:15:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;21010483;APAGADO-;954052244;telefono apagado ;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 12:15:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;21010483;APAGADO-;954052244;telefono apagado ;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 12:15:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;21010483;APAGADO-;904053757;numero sin servicio ;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-01 16:13:00;kmartel@cajalosandes.pe;KATERINE ELIZABETH MARTEL LASTARRIA;21010940;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;917734325;no desea credito;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-04 18:09:00;kmartel@cajalosandes.pe;KATERINE ELIZABETH MARTEL LASTARRIA;21010940;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;917734325;NO QUIERE CREDITO SIEMPRE SE LE INVITA;;2;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-04 17:41:00;jlaura@cajalosandes.pe;JULISSA MILY LAURA UNCHUPAICO;21012566;SE ACERCARA A DESEMBOLSAR-;956825836;;;1;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
@@ -2385,6 +2385,7 @@ Fecha_gestion;correo_eds;nombre_eds;dni_cliente;gestion_eds;celular_cliente;COME
 2025-09-02 09:46:45;avasquezs@cajalosandes.pe;ANGELA BEATRIZ VASQUEZ SANCHEZ;22998614;NO CONTESTA-;912043886;;;2;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-03 11:22:05;avasquezs@cajalosandes.pe;ANGELA BEATRIZ VASQUEZ SANCHEZ;23000516;NO CONTESTA-;962573103;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-03 11:42:50;ecardenas@cajalosandes.pe;ERICKA CARDENAS TORRES;23001358;SE ACERCARA A DESEMBOLSAR-;942560395;;;1;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
+2025-09-04 21:34:04;kzevallos@cajalosandes.pe;KEYLA BLANCA ZEVALLOS SANDOVAL;23001358;CLIENTE DESEMBOLSO-Por Otro Canal;942560395;;;2;Se puede gestionar;Contactado;Cliente no interesado;desembolso antes de gestion
 2025-09-01 12:24:36;ecardenas@cajalosandes.pe;ERICKA CARDENAS TORRES;23001903;CLIENTE EN DUDA-;998043899;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-01 17:43:51;ecardenas@cajalosandes.pe;ERICKA CARDENAS TORRES;23001903;APAGADO-;998043899;;;2;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-04 18:14:20;ecardenas@cajalosandes.pe;ERICKA CARDENAS TORRES;23001903;APAGADO-;998043899;;;3;Se puede gestionar;No contactado;Apagado;Apagado
@@ -5742,8 +5743,8 @@ cliente indico que le le llame mñn para la decisión ";;1;Se puede gestionar;Co
 2025-09-04 17:58:00;rramos@cajalosandes.pe;ROCIO DEL PILAR RAMOS CHAGUA;42474209;CLIENTE EN DUDA-;943181102;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-02 12:25:00;brodriguez@cajalosandes.pe;BALBINA RODRIGUEZ CALSIN;42475436;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;953877334;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-01 17:29:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42476639;APAGADO-;985385281;EL NUMERO NO EXISTE ;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:29:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42476639;APAGADO-;961597052;EL NUMERO NO EXISTE ;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:29:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42476639;APAGADO-;956818887;EL NUMERO NO EXISTE ;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:29:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42476639;APAGADO-;956818887;EL NUMERO NO EXISTE ;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:29:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42476639;APAGADO-;961597052;EL NUMERO NO EXISTE ;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-02 16:38:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;42478610;APAGADO-;991090642;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-02 16:38:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;42478610;NO CONTESTA-;973225661;;;2;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 16:39:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;42478610;APAGADO-;981855820;numero incorrecto;;3;Se puede gestionar;No contactado;Apagado;Apagado
@@ -5808,8 +5809,8 @@ cliente indico que le le llame mñn para la decisión ";;1;Se puede gestionar;Co
 2025-09-01 18:07:00;hmoralesq@cajalosandes.pe;HENRY NADDELGUER MORALES QUICAÑO;42567893;NO CONTESTA-;949922026;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 12:11:00;acieza@cajalosandes.pe;ANACELY CIEZA MENDOZA;42571872;CLIENTE EN DUDA-;928756277;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-04 09:30:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42571910;APAGADO-;920273693;telefono apagado ;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-04 09:30:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42571910;APAGADO-;971573049;el numero no existe;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-04 09:30:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42571910;APAGADO-;937522821;telefono apagado ;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-04 09:30:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42571910;APAGADO-;937522821;telefono apagado ;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-04 09:30:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;42571910;APAGADO-;971573049;el numero no existe;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-04 17:43:00;msucasaca@cajalosandes.pe;MILAGROS MABEL SUCASACA MEDINA;42573380;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;940860614;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-03 15:43:00;mpilares@cajalosandes.pe;MAGALY PILARES TACO;42576072;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;995558097;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-01 11:16:00;yferata@cajalosandes.pe;YESSICA FERATA CHILO;42577269;CLIENTE EN DUDA-;954772160;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
@@ -6212,8 +6213,8 @@ cliente indico que le le llame mñn para la decisión ";;1;Se puede gestionar;Co
 2025-09-01 11:07:00;rquispes@cajalosandes.pe;ROSA YESSENIA QUISPE CCASA;43198707;NO CONTESTA-;951462310;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 10:33:00;rquispes@cajalosandes.pe;ROSA YESSENIA QUISPE CCASA;43198707;NO CONTESTA-;952263036;;;2;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 17:35:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;APAGADO-;961958760;2025-02-09T00:00:00.000Z;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 15:05:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;APAGADO-;961977140;NO ENTRA LLAMADA;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 15:05:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;APAGADO-;961958760;NO EXISTE;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:05:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;APAGADO-;961958760;NO EXISTE;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:05:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;APAGADO-;961977140;NO ENTRA LLAMADA;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 15:08:00;avalenciaa@cajalosandes.pe;ANGIE MELLUZKA VALENCIA AQUINO;43200859;NO CONTESTA-;951425596;2025-03-09T00:00:00.000Z;;4;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 18:08:00;iquispem@cajalosandes.pe;INES MARLENY QUISPE MOROCCO;43202120;CLIENTE DESISTIO/ NO INTERESADO-POR TASA;908778658;;;1;Se puede gestionar;Contactado;Cliente no interesado;Tasa alta
 2025-09-03 14:30:00;svilca@cajalosandes.pe;SARA DEL PILAR VILCA CUNO;43202156;APAGADO-;949231790;;;1;Se puede gestionar;No contactado;Apagado;Apagado
@@ -7475,9 +7476,9 @@ cliente indico que le le llame mñn para la decisión ";;1;Se puede gestionar;Co
 2025-09-01 12:50:00;ypineda@cajalosandes.pe;YHOJAYDA PILAR PINEDA MAMANI;45248520;CLIENTE DESISTIO/ NO INTERESADO-POR TASA;973080695;;;1;Se puede gestionar;Contactado;Cliente no interesado;Tasa alta
 2025-09-02 12:02:00;ypineda@cajalosandes.pe;YHOJAYDA PILAR PINEDA MAMANI;45248520;SE ACERCARA A DESEMBOLSAR-;973080695;;;2;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
 2025-09-03 17:35:00;ypineda@cajalosandes.pe;YHOJAYDA PILAR PINEDA MAMANI;45248520;CLIENTE EN DUDA-;973080695;;;3;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
-2025-09-03 14:41:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;45249058;APAGADO-;966772482;;;1;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 14:41:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;45249058;APAGADO-;913409191;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 14:41:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;45249058;APAGADO-;972834918;;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 14:41:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;45249058;APAGADO-;913409191;;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 14:41:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;45249058;APAGADO-;966772482;;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-02 09:40:00;msalon@cajalosandes.pe;MADAITA SALON HUAMAN;45251537;PARA VERIFICACIÓN-;944897625;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-02 11:41:00;arimarachin@cajalosandes.pe;ANY MICHELL RIMARACHIN CORONEL;45251928;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;976855118;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-03 17:09:00;msucasaca@cajalosandes.pe;MILAGROS MABEL SUCASACA MEDINA;45254446;SE ACERCARA A DESEMBOLSAR-;900786656;;;1;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
@@ -8046,9 +8047,9 @@ cliente indico que le le llame mñn para la decisión ";;1;Se puede gestionar;Co
 2025-09-03 15:40:00;nvasquez@cajalosandes.pe;NAYDA ADA VASQUEZ KANA;46103014;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;971868635;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
 2025-09-01 17:52:00;aalata@cajalosandes.pe;AYMHEE MHASGUE ALATA LAMPA;46103015;APAGADO-;938702973;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-01 16:32:00;rcondena@cajalosandes.pe;ROXANA CONDEÑA HUAMAN;46109918;CONTACTO CON FAMILIAR/TERCERO-;941226806;;;1;Se puede gestionar;Contactado;Contacto con familiar;Contacto con familiar
-2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;46110867;APAGADO-;950071981;;;1;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;46110867;APAGADO-;923620105;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;46110867;APAGADO-;967473806;;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;46110867;APAGADO-;923620105;;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-03 15:02:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;46110867;APAGADO-;950071981;;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-01 16:09:00;rcondena@cajalosandes.pe;ROXANA CONDEÑA HUAMAN;46111641;CLIENTE DESISTIO/ NO INTERESADO-POR MONTO;986259802;;;1;Se puede gestionar;Contactado;Cliente no interesado;Monto pequeño
 2025-09-02 16:08:00;rcondena@cajalosandes.pe;ROXANA CONDEÑA HUAMAN;46111641;CLIENTE DESISTIO/ NO INTERESADO-POR MONTO;930779698;;;2;Se puede gestionar;Contactado;Cliente no interesado;Monto pequeño
 2025-09-03 11:40:00;rramos@cajalosandes.pe;ROCIO DEL PILAR RAMOS CHAGUA;46112492;NO CONTESTA-;997892084;;;1;Se puede gestionar;No contactado;No contesto;No contesto
@@ -8649,8 +8650,8 @@ apaagdos";;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-01 16:33:00;ldiazc@cajalosandes.pe;LYN DIAZ CONDORI;47001168;APAGADO-;968517046;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-02 17:48:00;malvareza@cajalosandes.pe;MARY LUZ ALVAREZ ANCALLA;47001191;APAGADO-;957069814;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-03 18:09:00;malvareza@cajalosandes.pe;MARY LUZ ALVAREZ ANCALLA;47001191;CLIENTE DESISTIO/ NO INTERESADO-POR TASA;957069814;;;2;Se puede gestionar;Contactado;Cliente no interesado;Tasa alta
-2025-09-04 09:28:00;tfloresq@cajalosandes.pe;TONY BRAYAN FLORES QUISPE;47001258;NO CONTESTA-;979799797;;;1;Se puede gestionar;No contactado;No contesto;No contesto
-2025-09-04 09:28:00;tfloresq@cajalosandes.pe;TONY BRAYAN FLORES QUISPE;47001258;NO CONTESTA-;945122876;;;2;Se puede gestionar;No contactado;No contesto;No contesto
+2025-09-04 09:28:00;tfloresq@cajalosandes.pe;TONY BRAYAN FLORES QUISPE;47001258;NO CONTESTA-;945122876;;;1;Se puede gestionar;No contactado;No contesto;No contesto
+2025-09-04 09:28:00;tfloresq@cajalosandes.pe;TONY BRAYAN FLORES QUISPE;47001258;NO CONTESTA-;979799797;;;2;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 18:28:50;kzevallos@cajalosandes.pe;KEYLA BLANCA ZEVALLOS SANDOVAL;47004822;NO CONTESTA-;912462493;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-01 12:29:00;eregalado@cajalosandes.pe;EDNILDA REGALADO BENAVIDEZ;47006891;CLIENTE EN DUDA-;962920901;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-02 13:00:00;ldiazc@cajalosandes.pe;LYN DIAZ CONDORI;47008628;CLIENTE DESISTIO/ NO INTERESADO-NO DESEA SER LLAMADO/NO EXPRESA RAZON;921645253;;;1;Se puede gestionar;Contactado;Cliente no interesado;No desea ser llamado
@@ -8867,8 +8868,8 @@ NUMEROS INCORRECTOS
 2025-09-02 17:46:00;gyanac@cajalosandes.pe;GABY LUZ YANA CHAMBI;47405532;CLIENTE EN DUDA-;957730551;;;2;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-01 16:34:00;scontreras@cajalosandes.pe;SILVIA CONTRERAS MENESES;47406114;SE ACERCARA A DESEMBOLSAR-;971948399;;;1;Se puede gestionar;Contactado;Se derivo a Operaciones;Acepta oferta
 2025-09-01 17:27:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;47407722;APAGADO-;957421810;EL NUMERO NO EXISTE ;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:28:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;47407722;APAGADO-;971392101;EL NUMERO NO EXISTE ;;2;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:28:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;47407722;APAGADO-;971776327;TELEFONO APAGADO ;;3;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:28:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;47407722;APAGADO-;971776327;TELEFONO APAGADO ;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:28:00;ycordova@cajalosandes.pe;YORKA SARAI LILIANA CORDOVA IZQUIERDO;47407722;APAGADO-;971392101;EL NUMERO NO EXISTE ;;3;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-04 17:36:00;svilca@cajalosandes.pe;SARA DEL PILAR VILCA CUNO;47407853;NO CONTESTA-;940820028;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-03 16:52:00;scabeza@cajalosandes.pe;STEFANY HIBETH CABEZA VILCA;47409144;NO CONTESTA-;929020914;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-04 09:10:00;scabeza@cajalosandes.pe;STEFANY HIBETH CABEZA VILCA;47409144;CIERRE DE VENTA EN VENTANILLA-;929020914;desembolsara en esta semana;;2;Respetar gestion EDS;Contactado;Se derivo a Operaciones;Acepta oferta
@@ -9939,8 +9940,8 @@ el 15 de septiembre se acercará a la oficina ";;1;Respetar gestion EDS;Contacta
 2025-09-02 17:13:00;gramost@cajalosandes.pe;GLORIA RAMOS TAYPE;70116990;APAGADO-;965338125;;;1;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-01 17:26:00;rriverat@cajalosandes.pe;ROSMERY RIVERA TORRES;70117018;CLIENTE EN DUDA-;930409579;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-01 17:07:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70117087;APAGADO-;992118815;;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:07:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70117087;NO CONTESTA-;952691495;;;2;Se puede gestionar;No contactado;No contesto;No contesto
-2025-09-01 17:07:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70117087;NO CONTESTA-;950000012;;;3;Se puede gestionar;No contactado;No contesto;No contesto
+2025-09-01 17:07:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70117087;NO CONTESTA-;950000012;;;2;Se puede gestionar;No contactado;No contesto;No contesto
+2025-09-01 17:07:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70117087;NO CONTESTA-;952691495;;;3;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 16:43:00;jquispen@cajalosandes.pe;JACKELINE QUISPE ONCEBAY;70118928;NO CONTESTA-;954793725;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-02 16:48:00;jquispen@cajalosandes.pe;JACKELINE QUISPE ONCEBAY;70118928;NO CONTESTA-;954793725;;;2;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-03 14:31:00;jquispen@cajalosandes.pe;JACKELINE QUISPE ONCEBAY;70118928;CLIENTE EN DUDA-;969702934;;;3;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
@@ -9992,8 +9993,8 @@ el 15 de septiembre se acercará a la oficina ";;1;Respetar gestion EDS;Contacta
 2025-09-03 17:05:00;msucasaca@cajalosandes.pe;MILAGROS MABEL SUCASACA MEDINA;70155287;NO CONTESTA-;983252073;;;1;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-01 12:08:59;dgonzalesp@cajalosandes.pe;DIANA CAROLINA GONZALES PEREZ;70156278;CLIENTE EN DUDA-;948132750;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-03 13:17:49;dgonzalesp@cajalosandes.pe;DIANA CAROLINA GONZALES PEREZ;70156813;CLIENTE EN DUDA-;973211144;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
-2025-09-01 17:18:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70158221;APAGADO-;928141511;;;1;Se puede gestionar;No contactado;Apagado;Apagado
-2025-09-01 17:18:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70158221;APAGADO-;965823685;numero no existe;;2;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:18:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70158221;APAGADO-;965823685;numero no existe;;1;Se puede gestionar;No contactado;Apagado;Apagado
+2025-09-01 17:18:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70158221;APAGADO-;928141511;;;2;Se puede gestionar;No contactado;Apagado;Apagado
 2025-09-01 17:18:00;mponce@cajalosandes.pe;MIRIAM LISBETH PONCE ESPINOZA;70158221;NO CONTESTA-;978188210;;;3;Se puede gestionar;No contactado;No contesto;No contesto
 2025-09-04 18:24:00;rriverat@cajalosandes.pe;ROSMERY RIVERA TORRES;70161573;CLIENTE EN DUDA-;927639551;;;1;Se puede gestionar;Contactado;Cliente en duda;Cliente en duda
 2025-09-03 15:13:00;brodriguez@cajalosandes.pe;BALBINA RODRIGUEZ CALSIN;70161631;APAGADO-;971906991;;;1;Se puede gestionar;No contactado;Apagado;Apagado
