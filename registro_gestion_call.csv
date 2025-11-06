@@ -1,4 +1,18 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;Reg PA;74173218;JHON CORDOVA CCARITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:39:15.000;965158558
+;Reg PA;74173218;JHON CORDOVA CCARITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:39:15.000;965158558
+;Reg PA;44781661;GUEVARA GUEVARA JOSE FERNANDO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:04:34.000;968963844
+;Reg PA;44781661;GUEVARA GUEVARA JOSE FERNANDO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:04:34.000;968963844
+;Reg PA;75526276;IVAN TICONA CUEVA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:03:00.000;935880041
+;Reg PA;75526276;IVAN TICONA CUEVA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:03:00.000;935880041
+;Reg PA;75526276;IVAN TICONA CUEVA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:01:26.000;935880041
+;Reg PA;75526276;IVAN TICONA CUEVA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 19:01:26.000;935880041
+;Reg PA;44810587;DANIEL CABANILLAS MERCADO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 18:59:37.000;935018324
+;Reg PA;44810587;DANIEL CABANILLAS MERCADO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 18:59:37.000;935018324
+;Reg PA;70678371;EVA TURPO MAYTA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 18:58:04.000;925405095
+;Reg PA;70678371;EVA TURPO MAYTA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 18:58:04.000;925405095
+REGION NORTE;form Apro;80452493;TAKER CRUZADO VALDERRAMA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-06;2025-11-05 18:51:42.000;982692791
+;form seg;75794119;;Creditos en proceso de desembolso;Cliente en duda;JANETT;2025-11-07;2025-11-05 18:34:30.000;
 REGION NORTE;form Apro;27057264;YLDE GIL HORNA;Contactado;Se derivo a Operaciones;Yakeline;2025-11-06;2025-11-05 18:33:14.000;973454687
 ;Reg PA;70090347;HUAMAN QUISPE DIANA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:31:05.000;914650493
 ;Reg PA;70090347;HUAMAN QUISPE DIANA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:31:05.000;914650493
@@ -34,25 +48,44 @@ REGION NORTE;form Apro;74175673;LUIS FERNANDO ESCOBAR GUEVARA;Contactado;Se deri
 ;Reg PA;70001936;GIAN CANCHO LAPA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:14:28.000;931140691
 ;Reg PA;70001936;GIAN CANCHO LAPA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:14:28.000;931140691
 REGION CENTRO;form Apro;80098168;NOE CUSIPOMA LAZO;Contactado;Se derivo a Operaciones;Yakeline;2025-11-06;2025-11-05 18:13:49.000;974440495
+;form seg;40915182;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-05;2025-11-05 18:13:44.000;
 REGION CENTRO ORIENTE;form Apro;40915182;ROSALBA ILLATOPA MEGO;Contactado;Se derivo a Operaciones;Rosmery;2025-11-05;2025-11-05 18:13:40.000;984130524
 ;Reg PA;71982285;CHIPANA MAMANI RIBEYRO ANGEL;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:13:13.000;957722552
 ;Reg PA;71982285;CHIPANA MAMANI RIBEYRO ANGEL;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 18:13:13.000;957722552
 REGION CENTRO ORIENTE;form Apro;47929306;VENTURA ESTELA YENI;Contactado;Se derivo a Operaciones;Rosmery;2025-11-04;2025-11-05 18:00:12.000;997547974
+;form seg;47929306;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-06;2025-11-05 17:58:42.000;
+;form seg;47929306;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-06;2025-11-05 17:54:36.000;
 REGION AYACUCHO;form Apro;47323674;TANIA HUAMAN GUIZADO;Contactado;Se derivo a Operaciones;Heydi;2025-11-05;2025-11-05 17:54:36.000;928412649
+;form seg;01519400;;Creditos en proceso de desembolso;Cliente en duda;ROSMERY;2025-11-06;2025-11-05 17:53:50.000;
+;form seg;33642879;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-06;2025-11-05 17:51:38.000;
 REGION NORTE;form Apro;33642879;CONSTANTINO CALLE JIMENEZ;Contactado;Se derivo a Operaciones;Rosmery;2025-11-05;2025-11-05 17:51:24.000;947712108
 REGION NORTE;form Apro;33642879;CONSTANTINO CALLE JIMENEZ;Contactado;Se derivo a Operaciones;Rosmery;2025-11-05;2025-11-05 17:47:39.000;947712108
 REGION CENTRO;form Apro;10106521;CRUZ CECILIO FERNANDO ALFREDO;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-06;2025-11-05 17:47:34.000;904687317
 REGION NORTE;form Apro;46500253;ALEX HOYOS REGALADO;Contactado;Se derivo a Operaciones;Soraya;2025-11-08;2025-11-05 17:41:44.000;923688676
 REGION CUSCO;form Apro;24485429;TIMOTEO LARA CORAHUA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-06;2025-11-05 17:32:22.000;950269225
+;form seg;74938469;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 17:31:28.000;
+;form seg;40065375;;Creditos en proceso de desembolso;Cliente en duda;ROSMERY;2025-11-06;2025-11-05 17:30:36.000;
+;form seg;71593814;;Creditos en proceso de desembolso;Cliente en duda;ROSMERY;2025-11-05;2025-11-05 17:29:44.000;
+;form seg;76076357;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-06;2025-11-05 17:27:37.000;
+;form seg;42115816;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 17:24:21.000;
 ;Reg PA;02290201;MELCHORA CCUNO HUARANCCA;Contactado;Cliente en duda;YENI MILAGROS;;2025-11-05 17:19:29.000;973692697
 ;Reg PA;02290201;MELCHORA CCUNO HUARANCCA;Contactado;Cliente en duda;YENI MILAGROS;;2025-11-05 17:19:29.000;973692697
 REGION CENTRO ORIENTE;form Apro;43376784;ELIO VILLAR VALVERDE;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-12;2025-11-05 17:15:43.000;970642927
+;form seg;01101913;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:14:51.000;
+;form seg;22969677;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:14:29.000;
+;form seg;80021393;;Se_desanimo;Tasa alta;SORAYA;;2025-11-05 17:14:05.000;
+;form seg;16672856;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:13:47.000;
+;form seg;71935670;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:13:17.000;
+;form seg;74847171;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:12:47.000;
+;form seg;01306531;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:12:25.000;
 REGION NORTE;form Apro;07688175;SURCO TORRES JENRRI EDGAR;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-12;2025-11-05 17:11:19.000;936425697
 REGION CENTRO ORIENTE;form Apro;46581383;BARRIOS SANTILLAN LEODAN;Contactado;Se derivo a Operaciones;Rossana;2025-11-10;2025-11-05 17:09:57.000;926415610
 ;Reg PA;44723805;EDGAR CANALES CCOYLLO;Contactado;Cliente en duda;YENI MILAGROS;;2025-11-05 17:05:48.000;929233490
 ;Reg PA;44723805;EDGAR CANALES CCOYLLO;Contactado;Cliente en duda;YENI MILAGROS;;2025-11-05 17:05:48.000;929233490
 REGION CENTRO;form Apro;21135378;JESUS MARINO AURIS HUACHHUACO;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-07;2025-11-05 17:05:27.000;916922075
 REGION NORTE;form Apro;47130487;DE LA CRUZ ZELADA EDILBERTO;Contactado;Cliente en duda;Janett Leiva;2025-11-08;2025-11-05 17:03:53.000;921858042
+;form seg;46039272;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-10;2025-11-05 17:03:34.000;
+;form seg;73383031;;Creditos en proceso de desembolso;Desembolsara en proximos dias;SORAYA;2025-11-11;2025-11-05 17:01:34.000;
 REGION CENTRO;form Apro;47056855;DAVID MONTES VICENTE;Contactado;Se derivo a Operaciones;Eny;2025-11-06;2025-11-05 16:59:20.000;960442360
 ;Reg PA;43993613;GEORGINA HUAYHUA QUISPE;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 16:57:42.000;964252489
 ;Reg PA;43993613;GEORGINA HUAYHUA QUISPE;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 16:57:42.000;964252489
@@ -77,6 +110,7 @@ REGION CENTRO ORIENTE;form Apro;43187825;BALERIO CALLE LIVIA;Contactado;Se deriv
 ;Reg PA;71885872;SAGASTEGUI IPARRAGUIRRE YODMANI HUBER;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-05 15:58:26.000;975357716
 ;Reg PA;71885872;SAGASTEGUI IPARRAGUIRRE YODMANI HUBER;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-05 15:58:26.000;975357716
 REGION NORTE;form Apro;72944671;KELITA TAPIA CRUZADO;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-11-06;2025-11-05 15:57:16.000;908965700
+;form seg;00163832;;Creditos en proceso de desembolso;Cliente en duda;ROSMERY;2025-11-21;2025-11-05 15:57:11.000;
 REGION CENTRO ORIENTE;form Apro;74945564;VARGAS GOMEZ JHOISY VANESSA;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-11-05;2025-11-05 15:41:52.000;983123844
 ;Reg PA;44334821;ANA CONDORI HUANCA;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-05 15:38:47.000;993930245
 ;Reg PA;44334821;ANA CONDORI HUANCA;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-05 15:38:47.000;993930245
@@ -195,8 +229,9 @@ REGION NORTE;form Apro;44474214;GRICERIO BENAVIDES BENAVIDES;Contactado;Se deriv
 ;Reg PA;25303444;JUAN CARLOTTO CAILLAUX;Contactado;Cliente en duda;YAKELINE;;2025-11-05 11:05:46.000;956746694
 ;Reg PA;25303444;JUAN CARLOTTO CAILLAUX;Contactado;Cliente en duda;YAKELINE;;2025-11-05 11:05:46.000;956746694
 REGION NORTE;form Apro;00000000;AMELIA ROMERO ROJAS;Contactado;Se derivo a Operaciones;Eny;2025-11-06;2025-11-05 10:57:23.000;900590294
-REGION CUSCO;form Apro;77244420;MAMANI ROMAN JHON MARTIN;Contactado;Se derivo a Operaciones;Yakeline;2025-11-05;2025-11-05 10:55:08.000;960416382
+;form seg;44810587;;Se_desanimo;Tasa alta;ROSMERY;;2025-11-05 10:55:53.000;
 ;Reg PA;73575673;AMELIA ROMERO ROJAS;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 10:55:08.000;900590294
+REGION CUSCO;form Apro;77244420;MAMANI ROMAN JHON MARTIN;Contactado;Se derivo a Operaciones;Yakeline;2025-11-05;2025-11-05 10:55:08.000;960416382
 ;Reg PA;73575673;AMELIA ROMERO ROJAS;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 10:55:08.000;900590294
 REGION CENTRO ORIENTE;form Apro;41987687;MODESTO ALEJO ROSULO;Contactado;Se derivo a Operaciones;Rosmery;2025-11-10;2025-11-05 10:52:56.000;978975440
 REGION CENTRO;form Apro;43317270;RUBEN CRISPIN MIRANDA;Contactado;Se derivo a Operaciones;Yakeline;2025-11-08;2025-11-05 10:46:35.000;942215127
@@ -208,13 +243,25 @@ REGION PUNO NORTE;form Apro;46343132;CCUNO LARICO WILLIAM ADEMAEL;Contactado;Se 
 ;Reg PA;48410853;JHON CORDOVA CCARITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 10:39:08.000;973076919
 REGION AREQUIPA;form Apro;71994973;SARA RODRIGUEZ MANZANO;Contactado;Cliente en duda;Janett Leiva;2025-11-08;2025-11-05 10:34:06.000;912004927
 REGION CENTRO;form Apro;40881288;ZOCIMO PEREZ YAPIAS;Contactado;Se derivo a Operaciones;Eny;2025-11-05;2025-11-05 10:33:53.000;957016170
+;form seg;74173218;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-10;2025-11-05 10:33:04.000;
+;form seg;46324333;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YENI;2025-11-21;2025-11-05 10:32:42.000;
+;form seg;44810587;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 10:32:40.000;
+;form seg;74399857;;Cliente ya desembolso;;YENI;;2025-11-05 10:31:52.000;
+;form seg;40065375;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-05;2025-11-05 10:30:36.000;
+;form seg;41114450;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 10:29:46.000;
 REGION CENTRO;form Apro;71399192;BENJAMIN ZEVALLOS CHAMORRO;Contactado;Se derivo a Operaciones;Yakeline;2025-11-05;2025-11-05 10:28:37.000;929537442
+;form seg;40988334;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YENI;2025-11-05;2025-11-05 10:27:56.000;
+;form seg;41114450;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 10:26:57.000;
 REGION CENTRO;form Apro;71717358;PONCE CONDOR ALIPIO;Contactado;Cliente en duda;Janett Leiva;2025-11-08;2025-11-05 10:26:40.000;965254153
 ;Reg PA;73147675;ARTURO OBANDO CARRANZA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 10:24:04.000;970529239
 ;Reg PA;73147675;ARTURO OBANDO CARRANZA;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 10:24:04.000;970529239
 REGION AYACUCHO;form Apro;70307583;SAMUEL CCALLUCUNTO CUCHO;Contactado;Se derivo a Operaciones;Rosmery;2025-11-05;2025-11-05 10:22:40.000;974013612
+;form seg;44137111;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YENI;2025-11-25;2025-11-05 10:20:31.000;
+;form seg;24713393;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-07;2025-11-05 10:18:05.000;
+;form seg;60232562;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YENI;2025-11-21;2025-11-05 10:17:45.000;
 ;Reg PA;71763387;JOSE IVAN CHIQUEZ AQUINO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 10:17:16.000;998700580
 ;Reg PA;71763387;JOSE IVAN CHIQUEZ AQUINO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 10:17:16.000;998700580
+;form seg;45518265;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-11-05;2025-11-05 10:11:09.000;
 ;Reg PA;43168453;LUISA QUISPE RUA;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 10:09:01.000;931696941
 ;Reg PA;43168453;LUISA QUISPE RUA;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 10:09:01.000;931696941
 ;Reg PA;45156242;RONAL RAFAEL VASQUEZ;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-05 09:59:23.000;931373922
@@ -224,28 +271,61 @@ REGION CENTRO ORIENTE;form Apro;77219723;LUZ SOTO ATENCIA;Contactado;Se derivo a
 ;Reg PA;48586545;HALANOCCA HALANOCA MARGARITA ISABEL ;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 09:54:18.000;926427441
 ;Reg PA;48586545;HALANOCCA HALANOCA MARGARITA ISABEL ;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 09:54:18.000;926427441
 REGION NORTE;form Apro;71770238;ROICER REYES CARO;Contactado;Se derivo a Operaciones;Rosmery;2025-11-07;2025-11-05 09:54:13.000;916597323
+;form seg;02017801;;Creditos en proceso de desembolso;Cliente en duda;ROSMERY;2025-11-12;2025-11-05 09:51:23.000;
 ;Reg PA;02017801;MEDINA ZEA GUALBERTO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:51:18.000;962196758
 ;Reg PA;02017801;MEDINA ZEA GUALBERTO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:51:18.000;962196758
+;form seg;46446913;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-10;2025-11-05 09:46:35.000;
 ;Reg PA;22443075;HERMOGENES RESURRECCION LEANDRO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:46:13.000;962759939
 ;Reg PA;22443075;HERMOGENES RESURRECCION LEANDRO;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:46:13.000;962759939
+;form seg;01558619;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-10;2025-11-05 09:46:01.000;
+;form seg;43468530;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-10;2025-11-05 09:45:17.000;
 REGION CENTRO ORIENTE;form Apro;32988320;ROLANDO GAMES RAMOS;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-11-05;2025-11-05 09:44:03.000;972152402
 ;Reg PA;41667696;OCHOCHOQUE VILCAPAZA RITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:43:42.000;983103050
 ;Reg PA;41667696;OCHOCHOQUE VILCAPAZA RITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:43:42.000;983103050
+;form seg;27372806;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-11;2025-11-05 09:43:41.000;
+;form seg;22501523;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-11;2025-11-05 09:43:05.000;
+;form seg;40224212;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-10;2025-11-05 09:42:32.000;
+;form seg;73758126;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-06;2025-11-05 09:42:06.000;
 REGION CENTRO;form Apro;72437437;GINA HUAMALI CAPCHA;Contactado;Se derivo a Operaciones;Rossana;2025-11-05;2025-11-05 09:39:57.000;933009709
+;form seg;42950534;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-07;2025-11-05 09:39:15.000;
+;form seg;48474954;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-07;2025-11-05 09:38:22.000;
+;form seg;74311568;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-07;2025-11-05 09:33:58.000;
+;form seg;44517232;;Creditos en proceso de desembolso;Cliente en duda;ENY;2025-11-07;2025-11-05 09:31:23.000;
+;form seg;80468257;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-05;2025-11-05 09:30:17.000;
+;form seg;74578792;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-07;2025-11-05 09:29:46.000;
 ;Reg PA;45535146;DELIA QUISPE MAMANI;Contactado;Cliente en duda;YAKELINE;;2025-11-05 09:29:11.000;912067447
 ;Reg PA;45535146;DELIA QUISPE MAMANI;Contactado;Cliente en duda;YAKELINE;;2025-11-05 09:29:11.000;912067447
 ;Reg PA;42669726;PERCY TRINIDAD CLAUDIO;Contactado;Cliente en duda;ROSSANA;;2025-11-05 09:28:55.000;971828724
 ;Reg PA;42669726;PERCY TRINIDAD CLAUDIO;Contactado;Cliente en duda;ROSSANA;;2025-11-05 09:28:55.000;971828724
+;form seg;00501389;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-05;2025-11-05 09:22:51.000;
+;form seg;43080509;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-11-05;2025-11-05 09:20:54.000;
 ;Reg PA;41987687;JHON CORDOVA CCARITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:20:20.000;978975440
 ;Reg PA;41987687;JHON CORDOVA CCARITA;Contactado;Cliente en duda;ROSMERY;;2025-11-05 09:20:20.000;978975440
+;form seg;43780329;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-06;2025-11-05 09:20:04.000;
 REGION CENTRO;form Apro;48420019;CARMEN ALCARRAZ ZAMORA;Contactado;Se derivo a Operaciones;Soraya;2025-11-06;2025-11-05 09:20:03.000;976753369
+;form seg;71115181;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-06;2025-11-05 09:19:24.000;
+;form seg;75825482;;Se_desanimo;Cliente ya no necesita;ROSSANA;;2025-11-05 09:19:08.000;
+;form seg;47056855;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-06;2025-11-05 09:18:26.000;
+;form seg;70108764;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-06;2025-11-05 09:17:29.000;
+;form seg;70124141;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-06;2025-11-05 09:17:11.000;
+;form seg;47881844;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-05;2025-11-05 09:16:51.000;
+;form seg;20898790;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 09:16:36.000;
+;form seg;45894296;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-08;2025-11-05 09:16:33.000;
+;form seg;40042193;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-11-05;2025-11-05 09:10:16.000;
+;form seg;40058566;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 09:07:32.000;
 REGION NORTE;form Apro;19564699;FAUSTA AMADOR VERA;Contactado;Se derivo a Operaciones;Rossana;2025-11-20;2025-11-05 09:04:33.000;951609157
+;form seg;73441215;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 08:57:51.000;
 ;Reg PA;47323674;OSE HUAYTA TICONA;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 08:51:39.000;928412649
 ;Reg PA;47323674;OSE HUAYTA TICONA;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-11-05 08:51:39.000;928412649
+;form seg;74385029;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 08:50:38.000;
+;form seg;62978447;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-06;2025-11-05 08:49:08.000;
 ;Reg PA;41134549;MAMANI YUJRA JOSE ALFREDO;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 08:49:06.000;958399119
 ;Reg PA;41134549;MAMANI YUJRA JOSE ALFREDO;Contactado;Cliente en duda;ENY LIZHET;;2025-11-05 08:49:06.000;958399119
+;form seg;80261748;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 08:44:33.000;
 REGION NORTE;form Apro;70222225;MANUEL CARRANZA RIVERA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-07;2025-11-05 08:40:07.000;986318657
+;form seg;60545797;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 08:37:13.000;
 REGION NORTE;form Apro;45610709;NELSON MORANTE UBILLUS;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-06;2025-11-05 08:27:13.000;910460462
+;form seg;70490833;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-11-05;2025-11-05 08:22:04.000;
 ;Reg PA;43864905;RENE POCCOHUANCA CARRASCO;Contactado;Cliente en duda;ROSMERY;;2025-11-04 22:09:24.000;950017909
 ;Reg PA;43864905;RENE POCCOHUANCA CARRASCO;Contactado;Cliente en duda;ROSMERY;;2025-11-04 22:09:24.000;950017909
 ;Reg PA;75537203;ALEXANDRA TIMANA LLONTOP;Contactado;Cliente en duda;ROSMERY;;2025-11-04 22:04:24.000;978823102
@@ -3325,8 +3405,8 @@ REGION NORTE;form Apro;45978084;GEOVANY CHAVEZ ACOSTA;Contactado;Se derivo a Ope
 ;Reg gen;48349909;;No contactado;No contesto;;;2025-11-03 17:38:33.413;953349108
 ;Reg gen;30771949;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2025-11-03 17:38:31.313;966403719
 ;Reg gen;40582272;;No contactado;No contesto;;;2025-11-03 17:38:27.230;986211904
-;Reg gen;48724687;;No contactado;No contesto;;;2025-11-03 17:38:26.257;916699694
 ;Reg gen;80294518;;No contactado;No contesto;;;2025-11-03 17:38:26.257;937471227
+;Reg gen;48724687;;No contactado;No contesto;;;2025-11-03 17:38:26.257;916699694
 ;Reg gen;70522169;;No contactado;No contesto;;;2025-11-03 17:38:24.100;997060962
 ;Reg PA;30585433;LUCY A#AMURO PARICAHUA;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-03 17:38:21.000;945292799
 ;Reg PA;30585433;LUCY A#AMURO PARICAHUA;Contactado;Cliente en duda;SORAYA ANDREA;;2025-11-03 17:38:21.000;945292799
@@ -4995,10 +5075,10 @@ REGION AREQUIPA;form Apro;60545797;RONY ALFARO OJEDA;Contactado;Se derivo a Oper
 ;Reg gen;27731072;;No contactado;Apagado;;;2025-11-03 11:52:43.403;979406638
 ;Reg gen;02290592;;No contactado;No contesto;;;2025-11-03 11:52:42.467;958866802
 ;Reg gen;72911728;;Contactado;Cliente en duda;Yakeline Pomacosi Tintaya;;2025-11-03 11:52:40.573;910203220
-;Reg PA;15957607;LUIS SALGUERO CASAZOLA;Contactado;Cliente en duda;ROSMERY;;2025-11-03 11:52:28.000;957867559
 ;Reg PA;40224212;JUAN CCOSI JOSEC;Contactado;Cliente en duda;ENY LIZHET;;2025-11-03 11:52:28.000;983001384
 ;Reg PA;15957607;LUIS SALGUERO CASAZOLA;Contactado;Cliente en duda;ROSMERY;;2025-11-03 11:52:28.000;957867559
 ;Reg PA;40224212;JUAN CCOSI JOSEC;Contactado;Cliente en duda;ENY LIZHET;;2025-11-03 11:52:28.000;983001384
+;Reg PA;15957607;LUIS SALGUERO CASAZOLA;Contactado;Cliente en duda;ROSMERY;;2025-11-03 11:52:28.000;957867559
 ;Reg gen;44616628;;No contactado;Apagado;;;2025-11-03 11:52:19.230;954040085
 ;Reg gen;42765982;;No contactado;No contesto;;;2025-11-03 11:52:10.190;970962719
 ;Reg gen;30663000;;No contactado;Apagado;;;2025-11-03 11:51:42.503;957764709
@@ -5022,8 +5102,8 @@ REGION AREQUIPA;form Apro;60545797;RONY ALFARO OJEDA;Contactado;Se derivo a Oper
 ;Reg gen;73521961;;No contactado;Apagado;;;2025-11-03 11:49:12.693;904946225
 ;Reg gen;42882918;;No contactado;Apagado;;;2025-11-03 11:49:04.007;961101000
 ;Reg gen;20400111;;No contactado;Apagado;;;2025-11-03 11:49:02.977;988754560
-;Reg gen;41738245;;No contactado;Equivocado;ROSMERY VILCA PATHI;;2025-11-03 11:48:59.000;968919416
 REGION NORTE;form Apro;27996797;ESTERFA NU#EZ ALBERCA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-11-04;2025-11-03 11:48:59.000;964402131
+;Reg gen;41738245;;No contactado;Equivocado;ROSMERY VILCA PATHI;;2025-11-03 11:48:59.000;968919416
 ;Reg gen;74149104;;Contactado;Cliente en duda;HEYDI CAROLAY MAYTA COILA;;2025-11-03 11:48:38.617;969543182
 ;Reg gen;02278164;;No contactado;Numero incorrecto;;;2025-11-03 11:47:55.027;903529355
 ;Reg gen;74874131;;No contactado;No contesto;;;2025-11-03 11:47:43.193;980469318
