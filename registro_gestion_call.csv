@@ -1,4 +1,10 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form seg;40154256;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-19;2025-12-16 15:50:59.000;
+;form seg;41892004;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-18;2025-12-16 15:50:13.000;
+;form duda;40078098;;Contactado;Cliente en duda;OLIVIA BELINDA;;2025-12-16 15:49:58.000;999567899
+;form duda;23975551;;Contactado;Cliente en duda;OLIVIA BELINDA;;2025-12-16 15:49:21.000;954720499
+;form seg;01313945;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-18;2025-12-16 15:48:03.000;
+REGION AYACUCHO;form Apro;44364742;CIRIACO ARONE ATOCCSA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-12-18;2025-12-16 15:38:27.000;980879388
 ;form duda;44631098;;Contactado;Cliente en duda;ENY LIZHET;;2025-12-16 15:32:28.000;957615631
 ;form derv_corre;70130356;;Contactado;Se derivo a Operaciones;YAKELINE;2025-12-17;2025-12-16 15:25:24.000;932532177
 ;form duda;27372806;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 15:14:01.000;918758984
@@ -263,8 +269,8 @@ REGION NORTE;form Apro;45019704;HILARIA CABANILLA BAZAN;Contactado;Se derivo a O
 ;form derv_corre;09779259;;Contactado;Se derivo a Operaciones;ROSSANA;2025-12-15;2025-12-15 10:27:30.000;953697590
 REGION NORTE;form Apro;47412565;SILVIA DELGADO BAUTISTA;Contactado;Se derivo a Operaciones;Lisseth;2025-12-17;2025-12-15 10:26:23.000;916803295
 ;form duda;41146037;;Contactado;Cliente en duda;ENY LIZHET;;2025-12-15 10:25:33.000;916773936
-;form duda;45518221;;Contactado;Cliente en duda;ROSMERY;;2025-12-15 10:19:52.000;951923137
 ;form derv_corre;45019704;;Contactado;Se derivo a Operaciones;LISSETH;2025-12-15;2025-12-15 10:19:52.000;991916939
+;form duda;45518221;;Contactado;Cliente en duda;ROSMERY;;2025-12-15 10:19:52.000;951923137
 ;form seg;04071658;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-17;2025-12-15 10:15:34.000;
 ;form seg;04051079;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:15:26.000;
 ;form derv_corre;45019704;;Contactado;Se derivo a Operaciones;LISSETH;2025-12-15;2025-12-15 10:15:19.000;991916939
@@ -297,8 +303,8 @@ REGION CENTRO;form Apro;40767699;LUIS POMA CALZADA;Contactado;Se derivo a Operac
 ;form seg;76818043;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:05:07.000;
 ;form seg;46623521;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:54.000;
 ;form seg;46623521;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:44.000;
-;form derv_corre;40153835;;Contactado;Se derivo a Operaciones;SORAYA;2025-12-17;2025-12-15 10:04:01.000;957254908
 ;form seg;47412493;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:01.000;
+;form derv_corre;40153835;;Contactado;Se derivo a Operaciones;SORAYA;2025-12-17;2025-12-15 10:04:01.000;957254908
 ;form seg;47412493;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:03:50.000;
 ;form seg;26923597;;Se_desanimo;Cliente ya no necesita;ROSMERY;;2025-12-15 10:03:36.000;
 ;form seg;41137879;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-15;2025-12-15 10:03:20.000;
