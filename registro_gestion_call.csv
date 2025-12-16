@@ -1,4 +1,10 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;44631098;;Contactado;Cliente en duda;ENY LIZHET;;2025-12-16 15:32:28.000;957615631
+;form derv_corre;70130356;;Contactado;Se derivo a Operaciones;YAKELINE;2025-12-17;2025-12-16 15:25:24.000;932532177
+;form duda;27372806;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 15:14:01.000;918758984
+;form derv_corre;41615881;;Contactado;Se derivo a Operaciones;YENI;2025-12-16;2025-12-16 15:11:34.000;962501904
+REGION CENTRO ORIENTE;form Apro;41615881;NELS ECHEVARRIA MORALES;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-12-16;2025-12-16 14:59:54.000;962501904
+;form seg;27439020;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-19;2025-12-16 14:46:34.000;
 ;form seg;27439020;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-19;2025-12-16 14:46:34.000;
 ;form duda;45371795;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 14:42:05.000;914479426
 ;form duda;19878350;;Contactado;Cliente en duda;ROSSANA;;2025-12-16 13:26:52.000;976885868
@@ -6,6 +12,7 @@ REGION PUNO SUR;form Apro;70130356;JULIA IBAÑEZ TINTAYA;Contactado;Se derivo a 
 ;form derv_corre;22964342;;Contactado;Se derivo a Operaciones;YENI;2025-12-20;2025-12-16 13:08:21.000;969790398
 ;form derv_corre;44119724;;Contactado;Se derivo a Operaciones;YENI;2025-12-22;2025-12-16 13:03:07.000;958864843
 REGION NORTE;form Apro;27412270;CESAR GUANAMBAL DELGADO;Contactado;Se derivo a Operaciones;Janett Leiva;2025-12-20;2025-12-16 13:00:52.000;993957142
+;form seg;42653981;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 12:58:56.000;
 ;form seg;42653981;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 12:58:56.000;
 ;form derv_corre;42653981;;Contactado;Se derivo a Operaciones;ROSMERY;2025-12-18;2025-12-16 12:54:14.000;926051574
 REGION NORTE;form Apro;42653981;WILMER RIMARACHIN CHAVEZ                           ;Contactado;Se derivo a Operaciones;Rosmery;2025-12-18;2025-12-16 12:45:52.000;926051574
@@ -19,33 +26,52 @@ REGION AYACUCHO;form Apro;71214349;LINIS ALVARADO VARGAS;Contactado;Se derivo a 
 ;form duda;02542889;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 11:58:17.000;957730717
 REGION PUNO SUR;form Apro;76279991;YONATHAN CONDORI ANAHUA    ;Contactado;Cliente en duda;Rosmery;;2025-12-16 11:54:29.000;922024948
 ;form seg;44255406;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-17;2025-12-16 11:52:33.000;
+;form seg;44255406;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-17;2025-12-16 11:52:33.000;
 ;form derv_corre;47445659;;Contactado;Se derivo a Operaciones;JANETT;2025-12-18;2025-12-16 11:52:07.000;993316162
 ;form seg;71065477;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-23;2025-12-16 11:52:02.000;
+;form seg;71065477;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-23;2025-12-16 11:52:02.000;
+;form seg;29400476;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 11:44:42.000;
 ;form seg;29400476;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 11:44:42.000;
 REGION AYACUCHO;form Apro;70164393;RUBEN ENRIQUEZ AVILA;Contactado;Se derivo a Operaciones;Yakeline;2025-12-18;2025-12-16 11:41:08.000;912987827
 REGION PUNO SUR;form Apro;71493977;JANDY APAZA PARIZACA;Contactado;Se derivo a Operaciones;Rosmery;2025-12-18;2025-12-16 11:41:03.000;992615152
 ;form seg;23019145;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 11:40:23.000;
+;form seg;23019145;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 11:40:23.000;
+;form seg;01995908;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-22;2025-12-16 11:39:45.000;
 ;form seg;01995908;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-22;2025-12-16 11:39:45.000;
 ;form derv_corre;71493977;;Contactado;Se derivo a Operaciones;ROSMERY;2025-12-18;2025-12-16 11:36:01.000;992615152
 REGION PUNO SUR;form Apro;47445659;DARIO MAMANI CAPACOILA;Contactado;Se derivo a Operaciones;Janett Leiva;2025-12-18;2025-12-16 11:29:55.000;993316162
+;form seg;42541347;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-19;2025-12-16 11:05:17.000;
 ;form seg;42541347;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-19;2025-12-16 11:05:17.000;
 REGION PUNO SUR;form Apro;71585464;CLETSON CHUMBILLA SUCAPUCA;Contactado;Se derivo a Operaciones;Rosmery;2025-12-18;2025-12-16 11:03:30.000;993769775
 ;form derv_corre;27909478;;Contactado;Se derivo a Operaciones;YENI;2025-12-16;2025-12-16 10:56:57.000;927168551
 ;form duda;01870627;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 10:56:54.000;972584925
 ;form duda;42930850;;Contactado;Cliente en duda;YAKELINE;;2025-12-16 10:50:47.000;933446672
 ;form seg;40093077;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:47:39.000;
+;form seg;40093077;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:47:39.000;
 ;form seg;01695726;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:47:27.000;
+;form seg;01695726;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:47:27.000;
+;form seg;45739114;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:46:56.000;
 ;form seg;45739114;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:46:56.000;
 REGION NORTE;form Apro;27909478;FRANCISCO MENDOZA COTRINA;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-12-16;2025-12-16 10:45:39.000;927168551
 ;form seg;46883468;;Creditos en proceso de desembolso;Desembolsara en proximos dias;HEYDI;2025-12-19;2025-12-16 10:39:39.000;
+;form seg;46883468;;Creditos en proceso de desembolso;Desembolsara en proximos dias;HEYDI;2025-12-19;2025-12-16 10:39:39.000;
+;form seg;42546978;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:39:34.000;
 ;form seg;42546978;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 10:39:34.000;
 ;form seg;76917246;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:36:23.000;
+;form seg;76917246;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:36:23.000;
+;form seg;75670098;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:35:56.000;
 ;form seg;75670098;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:35:56.000;
 ;form seg;27974266;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:34:48.000;
+;form seg;27974266;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:34:48.000;
+;form seg;02532393;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:33:27.000;
 ;form seg;02532393;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:33:27.000;
 ;form seg;42944358;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-23;2025-12-16 10:26:54.000;
+;form seg;42944358;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-23;2025-12-16 10:26:54.000;
+;form seg;09686701;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:26:29.000;
 ;form seg;09686701;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:26:29.000;
 ;form seg;43020658;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:24:55.000;
+;form seg;43020658;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:24:55.000;
+;form seg;73349893;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:23:42.000;
 ;form seg;73349893;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSSANA;2025-12-20;2025-12-16 10:23:42.000;
 ;form derv_corre;40475317;;Contactado;Se derivo a Operaciones;ROSSANA;2025-12-19;2025-12-16 10:18:17.000;939559087
 REGION NORTE;form Apro;19578220;ROLANDO ESPEJO VEGA;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-12-16;2025-12-16 10:08:51.000;964696514
@@ -56,7 +82,9 @@ REGION PUNO SUR;form Apro;71585464;CLETSON CHUMBILLA SUCAPUCA;Contactado;Se deri
 REGION CENTRO ORIENTE;form Apro;40475317;ALEJANDRO LEON JACINTO;Contactado;Se derivo a Operaciones;Rossana;2025-12-19;2025-12-16 10:03:18.000;939559087
 REGION PUNO SUR;form Apro;45832145;NANCY CHOQUEMALLCO TICONA;Contactado;Se derivo a Operaciones;Rossana;2025-12-16;2025-12-16 10:00:53.000;951893307
 ;form seg;04051079;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-18;2025-12-16 09:58:35.000;
+;form seg;04051079;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-18;2025-12-16 09:58:35.000;
 REGION CENTRO ORIENTE;form Apro;40475317;ALEJANDRO LEON JACINTO;Contactado;Se derivo a Operaciones;Rossana;2025-12-19;2025-12-16 09:53:09.000;939559087
+;form seg;45697238;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:50:40.000;
 ;form seg;45697238;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:50:40.000;
 ;form duda;28119399;;Contactado;Cliente en duda;ROSMERY;;2025-12-16 09:48:16.000;953665460
 REGION NORTE;form Apro;41779365;PERCI MELENDEZ HUAMAN;Contactado;Se derivo a Operaciones;Eny;2025-12-23;2025-12-16 09:42:05.000;981601861
@@ -65,14 +93,22 @@ REGION PUNO SUR;form Apro;71585464;CLETSON CHUMBILLA SUCAPUCA;Contactado;Se deri
 REGION PUNO NORTE;form Apro;01704087;TURPO LEQQUE ALEJANDRINA CATALINA;Contactado;Se derivo a Operaciones;Yeni Milagros;2025-12-16;2025-12-16 09:37:31.000;974220287
 ;form duda;48260662;;Contactado;Cliente en duda;HEYDI CAROLAY;;2025-12-16 09:28:09.000;935659803
 ;form seg;28851077;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-16;2025-12-16 09:24:51.000;
+;form seg;28851077;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-16;2025-12-16 09:24:51.000;
 ;form seg;08591528;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:22:06.000;
+;form seg;08591528;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:22:06.000;
+;form seg;46328035;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:20:35.000;
 ;form seg;46328035;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2025-12-18;2025-12-16 09:20:35.000;
 ;form derv_corre;47276830;;Contactado;Se derivo a Operaciones;ENY;2025-12-16;2025-12-16 09:13:52.000;966784449
 ;form derv_corre;45832145;;Contactado;Se derivo a Operaciones;ROSSANA;2025-12-16;2025-12-16 08:59:53.000;951893307
 ;form seg;46354277;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:53:48.000;
+;form seg;46354277;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:53:48.000;
+;form seg;43449018;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:53:04.000;
 ;form seg;43449018;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:53:04.000;
 ;form seg;43181747;;Creditos en proceso de desembolso;Desembolsara en proximos dias;HEYDI;2025-12-19;2025-12-16 08:51:09.000;
+;form seg;43181747;;Creditos en proceso de desembolso;Desembolsara en proximos dias;HEYDI;2025-12-19;2025-12-16 08:51:09.000;
 ;form seg;75725470;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:50:45.000;
+;form seg;75725470;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:50:45.000;
+;form seg;73806459;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:50:32.000;
 ;form seg;73806459;;Creditos en proceso de desembolso;Desembolsara en proximos dias;JANETT;2025-12-18;2025-12-16 08:50:32.000;
 REGION NORTE;form Apro;60498656;VIRGINIA MANUIG NUMPITAI;Contactado;Se derivo a Operaciones;Rossana;2025-12-16;2025-12-15 18:45:33.000;974729125
 ;form seg;46768044;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-16;2025-12-15 18:18:19.000;
