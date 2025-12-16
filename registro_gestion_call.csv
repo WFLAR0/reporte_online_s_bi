@@ -1,4 +1,6 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form derv_corre;41779365;;Contactado;Se derivo a Operaciones;ENY;2025-12-22;2025-12-16 16:02:44.000;981601861
+REGION NORTE;form Apro;27073414; JOSE ALCALDE ALVARADO ;Contactado;Cliente en duda;Rosmery;;2025-12-16 16:02:20.000;965142171
 ;form seg;44205556;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 15:56:33.000;
 ;form seg;23892239;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-20;2025-12-16 15:55:53.000;
 ;form seg;73359744;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2025-12-19;2025-12-16 15:55:29.000;
@@ -307,8 +309,8 @@ REGION CENTRO;form Apro;40767699;LUIS POMA CALZADA;Contactado;Se derivo a Operac
 ;form seg;76818043;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:05:07.000;
 ;form seg;46623521;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:54.000;
 ;form seg;46623521;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:44.000;
-;form derv_corre;40153835;;Contactado;Se derivo a Operaciones;SORAYA;2025-12-17;2025-12-15 10:04:01.000;957254908
 ;form seg;47412493;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:04:01.000;
+;form derv_corre;40153835;;Contactado;Se derivo a Operaciones;SORAYA;2025-12-17;2025-12-15 10:04:01.000;957254908
 ;form seg;47412493;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-17;2025-12-15 10:03:50.000;
 ;form seg;26923597;;Se_desanimo;Cliente ya no necesita;ROSMERY;;2025-12-15 10:03:36.000;
 ;form seg;41137879;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2025-12-15;2025-12-15 10:03:20.000;
