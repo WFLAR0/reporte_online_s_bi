@@ -1,7 +1,25 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;48713594;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 12:01:44;961112204
+;form duda;48888982;;Contactado;Cliente en duda;ENY LIZHET;;2026-01-02 12:00:35;992103675
+;form duda;61266957;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 12:00:31;945617214
+;form duda;75276228;;Contactado;Cliente en duda;LISSETH NERY;;2026-01-02 11:58:46;917415734
+;form duda;26950421;;Contactado;Cliente en duda;ROSSANA;;2026-01-02 11:58:46;991475236
+;form duda;77129844;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:57:13;994399219
+;form duda;70171616;;Contactado;Cliente en duda;ENY LIZHET;;2026-01-02 11:57:08;913955337
+;form duda;01094765;;Contactado;Cliente en duda;YAKELINE;;2026-01-02 11:56:47;971793389
+;form duda;45931980;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:56:41;900871175
+;form duda;62370510;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:56:11;912198169
+;form duda;46713307;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:55:38;987119867
+;form duda;41540275;;Contactado;Cliente en duda;ROSSANA;;2026-01-02 11:55:15;983642227
+;form duda;75772969;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:55:11;990317559
+;form duda;44763902;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:54:37;982019396
+;form derv_corre;71089438;;Contactado;Se derivo a Operaciones;LISSETH;2026-01-03;2026-01-02 11:54:16;988059427
+;form duda;48391132;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:53:54;929984203
+;form duda;61266957;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 11:53:12;945617214
 ;form duda;71241710;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:52:46;935294392
 ;form duda;20665202;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:52:18;968391852
 ;form duda;45223410;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:51:42;965809567
+REGION NORTE;form Apro;44846220;VERASTEGUI POQUIOMA MARIA ESTHER;Contactado;Se derivo a Operaciones;Rossana;2026-01-03;2026-01-02 11:51:36;990733328
 ;form duda;46990194;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:51:09;951981902
 ;form duda;70684815;;Contactado;Cliente en duda;OLIVIA BELINDA;;2026-01-02 11:50:38;928564495
 ;form duda;44222742;;Contactado;Cliente en duda;ENY LIZHET;;2026-01-02 11:49:29;956468664
@@ -20,11 +38,17 @@ region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fech
 ;form derv_corre;76958076;;Contactado;Se derivo a Operaciones;YAKELINE;2026-01-02;2026-01-02 11:34:58;903035148
 ;form derv_corre;46270385;;Contactado;Se derivo a Operaciones;ROSSANA;2026-01-02;2026-01-02 11:34:48;912711118
 ;form derv_corre;70973955;;Contactado;Se derivo a Operaciones;ROSMERY;2026-01-03;2026-01-02 11:33:19;912268768
+REGION NORTE;form Apro;43863501;ANDRES PE#A MELENDRES;Contactado;Se derivo a Operaciones;Eny;2026-01-05;2026-01-02 11:32:17;978844903
 ;form duda;20034820;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 11:31:51;964936544
 ;form duda;76701145;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 11:30:47;900608352
+REGION PUNO SUR;form Apro;46270385;FLORES HERMOSA MARIA DEL PILAR;Contactado;Se derivo a Operaciones;Rossana;2026-01-02;2026-01-02 11:29:29;912711118
+REGION CENTRO;form Apro;70973955;KELLY GALLO FELICIANO;Contactado;Se derivo a Operaciones;Rosmery;2026-01-03;2026-01-02 11:29:01;912268768
+REGION PUNO NORTE;form Apro;77338461;ANCCO QUISPE DIEGO FAUSTINO;Contactado;Se derivo a Operaciones;Lorena;2026-01-03;2026-01-02 11:28:11;980422264
 ;form duda;42115577;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 11:28:01;950928426
+REGION AYACUCHO;form Apro;76958076;GUIZADO FERNÁNDEZ ELI;Contactado;Se derivo a Operaciones;Yakeline;2026-01-02;2026-01-02 11:27:36;903035148
 ;form derv_corre;48659461;;Contactado;Se derivo a Operaciones;HEYDI;2026-01-02;2026-01-02 11:25:36;914046215
 ;form derv_corre;28981265;;Contactado;Se derivo a Operaciones;LISSETH;2026-01-03;2026-01-02 11:24:27;960160133
+REGION AYACUCHO;form Apro;76855296;LOURDES LANDA LUCANA;Contactado;Se derivo a Operaciones;Rosmery;2026-01-03;2026-01-02 11:24:13;959101088
 ;form derv_corre;48466344;;Contactado;Se derivo a Operaciones;LORENA;2026-01-05;2026-01-02 11:24:06;930331636
 ;form duda;80133259;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 11:23:59;974732558
 ;form derv_corre;70075201;;Contactado;Se derivo a Operaciones;YAKELINE;2026-01-03;2026-01-02 11:21:19;983310207
