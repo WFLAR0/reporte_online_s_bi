@@ -1,24 +1,25 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;71565479;;Contactado;Cliente en duda;YAKELINE;;2026-01-02 19:03:03;932557289
 ;form derv_corre;30407963;;Contactado;Se derivo a Operaciones;YAKELINE;2026-01-12;2026-01-02 18:30:36;952491260
 ;form derv_corre;71714047;;Contactado;Se derivo a Operaciones;YENI;2026-01-05;2026-01-02 18:27:03;988392044
 REGION AREQUIPA;form Apro;30407963;FERMIN SALAS NICHO;Contactado;Se derivo a Operaciones;Yakeline;2026-01-12;2026-01-02 18:26:47;952491260
 ;form derv_corre;33948980;;Contactado;Se derivo a Operaciones;ROSSANA;2026-01-05;2026-01-02 18:25:07;917174852
 REGION NORTE;form Apro;26956617;GUILLERMO VILCA JULCA;Contactado;Se derivo a Operaciones;Lorena;2026-01-05;2026-01-02 18:23:16;948868905
-;form seg;71334292;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-05;2026-01-02 18:21:35;
+;form seg;71334292;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-05;2026-01-02 18:21:25;
 REGION NORTE;form Apro;33948980;JOSE VARGAS VARGAS;Contactado;Se derivo a Operaciones;Rossana;2026-01-05;2026-01-02 18:18:29;917174852
 ;form derv_corre;74056855;;Contactado;Se derivo a Operaciones;HEYDI;2026-01-03;2026-01-02 18:03:28;929645641
-;form seg;41612642;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-03;2026-01-02 18:00:13;
+;form seg;41612642;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-03;2026-01-02 17:59:36;
 ;form duda;48438179;;Contactado;Cliente en duda;LISSETH NERY;;2026-01-02 17:58:00;918519734
 ;form duda;70480121;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 17:56:24;972849496
 ;form derv_corre;48517189;;Contactado;Se derivo a Operaciones;ROSSANA;2026-01-05;2026-01-02 17:53:26;929763040
 REGION CUSCO;form Apro;48517189;ALICIA SIVINCHA DOMINGUEZ;Contactado;Se derivo a Operaciones;Rossana;2026-01-05;2026-01-02 17:51:11;929763040
-;form seg;72008487;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-05;2026-01-02 17:44:34;
+;form seg;72008487;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-01-05;2026-01-02 17:44:24;
 ;form duda;16510311;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 17:34:37;949415610
 ;form derv_corre;48666014;;Contactado;Se derivo a Operaciones;YAKELINE;2026-01-03;2026-01-02 17:31:49;914312599
 ;form duda;48413831;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 17:30:01;914022659
 ;form duda;01848756;;Contactado;Cliente en duda;JANETT JUANA;;2026-01-02 17:28:12;988432676
 REGION AYACUCHO;form Apro;48666014;ELMER CHAMBI PINTO;Contactado;Se derivo a Operaciones;Yakeline;2026-01-03;2026-01-02 17:26:55;914312599
-;form seg;42538413;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-03;2026-01-02 17:24:28;
+;form seg;42538413;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-03;2026-01-02 17:24:06;
 ;form derv_corre;01817491;;Contactado;Se derivo a Operaciones;YENI;2026-01-02;2026-01-02 17:14:47;955647393
 ;form derv_corre;76675572;;Contactado;Se derivo a Operaciones;LORENA;2026-01-06;2026-01-02 17:11:10;930735623
 REGION AREQUIPA;form Apro;76675572;HUAROC ARANDA JANINA NOEMI;Contactado;Se derivo a Operaciones;Lorena;2026-01-06;2026-01-02 17:04:23;930735623
@@ -47,6 +48,7 @@ REGION CENTRO ORIENTE;form Apro;48392099;ROGER SANCHEZ HUAMAN;Contactado;Se deri
 ;form derv_corre;73891263;;Contactado;Se derivo a Operaciones;OLIVIA;2026-01-03;2026-01-02 15:42:34;940368757
 ;form duda;76617517;;Contactado;Cliente en duda;ROSSANA;;2026-01-02 15:42:34;935594244
 ;form duda;46488541;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-01-02 15:38:59;958232888
+;form seg;72308268;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-02;2026-01-02 15:35:21;
 ;form derv_corre;48391132;;Contactado;Se derivo a Operaciones;OLIVIA;2026-01-03;2026-01-02 15:33:53;929984203
 ;form duda;72103902;;Contactado;Cliente en duda;YAKELINE;;2026-01-02 15:32:17;927443693
 ;form derv_corre;26620218;;Contactado;Se derivo a Operaciones;HEYDI;2026-01-04;2026-01-02 15:30:32;926561803
@@ -85,6 +87,7 @@ REGION CENTRO;form Apro;20661679;CRISOLOGO PEREZ QUISPE;Contactado;Se derivo a O
 REGION CENTRO ORIENTE;form Apro;42181789;FAUSTINO MEGO ORLANDO;Contactado;Se derivo a Operaciones;Eny;2026-01-02;2026-01-02 12:56:09;935112590
 ;form duda;72523143;;Contactado;Cliente en duda;LISSETH NERY;;2026-01-02 12:53:37;910232139
 REGION CENTRO ORIENTE;form Apro;44065470;TOLENTINO ROJAS LUCIO DAVID;Contactado;Se derivo a Operaciones;Rossana;2026-01-05;2026-01-02 12:52:44;987898873
+;form seg;46199788;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-03;2026-01-02 12:46:47;
 ;form duda;40455216;;Contactado;Cliente en duda;LISSETH NERY;;2026-01-02 12:43:04;971842578
 ;form duda;73355157;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 12:42:29;983106574
 REGION CENTRO ORIENTE;form Apro;40436380;MIGUEL ZEGARRA RIOS;Contactado;Cliente en duda;Rosmery;;2026-01-02 12:41:19;934189827
@@ -222,8 +225,12 @@ REGION CENTRO;form Apro;71513227;EVELYN PIZARRO REATEGUI;Contactado;Se derivo a 
 ;form derv_corre;42745930;;Contactado;Se derivo a Operaciones;ROSSANA;2026-01-02;2026-01-02 09:21:37;980967970
 ;form derv_corre;44957640;;Contactado;Se derivo a Operaciones;LISSETH;2026-01-03;2026-01-02 09:18:21;992568718
 REGION CUSCO;form Apro;42745930;FRANKLIN WILSON ARREDONDO;Contactado;Se derivo a Operaciones;Rossana;2026-01-02;2026-01-02 09:15:19;980967970
+;form seg;42538413;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-03;2026-01-02 09:14:10;
 REGION NORTE;form Apro;72008487;NOEMI ABANTO AZA#ERO;Contactado;Se derivo a Operaciones;Yakeline;2026-01-02;2026-01-02 09:12:26;950593138
 REGION CENTRO ORIENTE;form Apro;48064705;ATALY HERRERA GALINDOS;Contactado;Se derivo a Operaciones;Yakeline;2026-01-02;2026-01-02 09:06:22;930205809
 ;form duda;47241732;;Contactado;Cliente en duda;YENI MILAGROS;;2026-01-02 09:04:51;947584273
+;form seg;46199788;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-02;2026-01-02 09:01:42;
 REGION CENTRO ORIENTE;form Apro;46375547;JOSE TORDECILLO URETA;Contactado;Se derivo a Operaciones;Lorena;2026-01-03;2026-01-02 09:01:20;922186449
+;form seg;44957640;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LISSETH;2026-01-02;2026-01-02 09:00:21;
 ;form duda;71936372;;Contactado;Cliente en duda;YAKELINE;;2026-01-02 08:58:37;927443693
+;form seg;01094765;;Denegado;Sin ingresos (sin actividad economica);YAKELINE;;2026-01-02 08:57:18;
