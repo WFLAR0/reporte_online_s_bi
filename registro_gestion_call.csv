@@ -1,4 +1,7 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;70054072;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 14:06:31;970054072
+;form duda;74457557;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 14:06:08;929479587
+REGION CENTRO;form Apro;73116520;NELIDA ESCOBAR CELESTINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:03:38;930638978
 ;form duda;47074830;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 14:02:38;930832958
 ;form duda;77137292;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 13:59:23;910858916
 ;form duda;75764509;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:59:22;992422835
@@ -6,11 +9,13 @@ region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fech
 ;form duda;75764509;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:58:02;992422835
 ;form duda;61531704;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:55:44;977238983
 ;form duda;23715064;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:55:10;903113737
+REGION CENTRO;form Apro;21283525;HIBON CONTRERAS GONZALO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:54:12;935705680
 ;form duda;70684118;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 13:52:55;926405094
 ;form duda;75079639;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 13:52:24;952086162
 ;form duda;45713722;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:51:34;932756614
 ;form duda;70246583;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 13:50:05;970246583
 ;form derv_corre;23715064;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 13:49:14;903113737
+REGION AYACUCHO;form Apro;43653239;JORGE QUISPE HUAMANI;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 13:48:18;952661661
 ;form derv_corre;75497740;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 13:47:50;932447841
 ;form duda;21283525;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:44:01;935705680
 ;form duda;73116520;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:43:45;930638978
@@ -19,6 +24,7 @@ region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fech
 ;form duda;48261856;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:43:00;974386436
 ;form duda;44960122;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:42:37;947022023
 ;form duda;71451360;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:42:14;951590370
+REGION CENTRO;form Apro;75626631;ARALI JERALDINE VARGAS MATOS;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 13:42:10;997814041
 ;form duda;40828630;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:41:53;932535467
 ;form duda;48586596;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 13:40:39;982026128
 ;form duda;71427050;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:40:34;988349058
@@ -41,18 +47,22 @@ region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fech
 ;form duda;40037220;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:26:23;970347722
 ;form derv_corre;62935569;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 13:24:56;900426704
 ;form derv_corre;45152102;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-04;2026-05-04 13:24:11;983024700
+REGION AREQUIPA;form Apro;42265277;CHRISTIAN SARMIENTO RAMOS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:20:47;958551049
 ;form duda;76989560;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:19:25;925828061
 ;form derv_corre;44939031;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 13:18:09;913142929
 ;form duda;76989560;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:17:51;925828061
 ;form derv_corre;01343081;;Contactado;Se derivo a Operaciones;LORENA;2026-05-09;2026-05-04 13:17:26;953422428
 ;form duda;46281415;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:17:23;971069735
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:14:43;901803971
+REGION NORTE;form Apro;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 13:13:55;987248030
 ;form duda;70613416;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:13:37;993806122
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:13:00;901803971
 ;form duda;73450763;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:12:50;965013708
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:12:06;901803971
+REGION PUNO NORTE;form Apro;73438872;JHON QUISPE RAMOS;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 13:12:06;942792091
 ;form duda;40037220;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 13:11:52;940037220
 ;form duda;72261614;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:11:03;926689127
+REGION CENTRO ORIENTE;form Apro;48503827;SAIDA NONATO AMBROSIO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:10:19;939710455
 ;form duda;27570458;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 13:09:29;938270611
 ;form duda;23715064;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:08:58;903113737
 ;form duda;45152102;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 13:08:28;983024700
