@@ -1,4 +1,7 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;04065747;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-05 15:32:18.000;993660643
+;form duda;27577391;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 15:29:46.000;968061869
+;form duda;02558147;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-05 15:24:13.000;950736567
 ;form duda;76555549;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 15:21:50.000;976304855
 ;form derv_corre;47728562;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 15:11:25.000;956971356
 ;form derv_corre;47732887;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 15:10:27.000;959474251
@@ -254,8 +257,8 @@ REGION PUNO NORTE;ACTIVO;76948666;VICTOR FELIX LUQUE TICONA;Contactado;Se derivo
 REGION NORTE;form Apro;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 18:16:18.000;987248030
 ;form duda;76948666;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 18:15:38.000;950240857
 ;form seg;25216734;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-05;2026-05-04 18:14:22.000;
-;form derv_corre;45300067;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 18:14:11.000;952924583
 REGION CENTRO;INACTIVO;45300067;ROOSBELL FLORENCIO MARIN VELASQUEZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 18:14:11.000;952924583
+;form derv_corre;45300067;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 18:14:11.000;952924583
 ;form duda;71541653;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 18:13:45.000;914631594
 ;Reg gen;70110509;;Contactado;Cliente en duda;Ecariapazat;;2026-05-04 18:12:06.130;953011280
 ;form seg;49022573;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-05;2026-05-04 18:11:30.000;
