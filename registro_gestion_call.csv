@@ -1,4 +1,5 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;76555549;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 15:21:50.000;976304855
 ;form derv_corre;47728562;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 15:11:25.000;956971356
 ;form derv_corre;47732887;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 15:10:27.000;959474251
 ;form duda;48906435;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 15:09:19.000;979348299
@@ -409,8 +410,8 @@ REGION PUNO SUR;ACTIVO;73347658;LIZBETH CAHUI TURPO;Contactado;Se derivo a Opera
 ;form duda;22663201;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 15:34:38.000;962268029
 REGION CENTRO;INACTIVO;71229539;YULIANA CABELLO ALANYA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 15:28:13.000;970611853
 ;form derv_corre;71229539;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 15:28:13.000;970611853
-REGION AYACUCHO;ACTIVO;70054072;DELIANA GOZME CCAYACC;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 15:27:46.000;984743997
 ;form derv_corre;70054072;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 15:27:46.000;984743997
+REGION AYACUCHO;ACTIVO;70054072;DELIANA GOZME CCAYACC;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 15:27:46.000;984743997
 ;form derv_corre;75626631;;Contactado;Se derivo a Operaciones;ENY;2026-05-05;2026-05-04 15:24:04.000;997814041
 ;form derv_corre;42265277;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-04;2026-05-04 15:18:11.000;958551049
 ;form derv_corre;25216734;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-04;2026-05-04 15:14:07.000;931997757
@@ -733,8 +734,8 @@ REGION CENTRO;ACTIVO;72102283;MIRIAM CANTARO EVARISTO;Contactado;Se derivo a Ope
 ;Reg gen;24668368;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-04 11:17:36.407;996385366
 ;Reg gen;06645564;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-04 11:17:23.963;999438194
 ;form duda;21118973;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 11:17:12.000;925737960
-REGION CENTRO ORIENTE;form Apro;72137478;SHERLY ATACHAGUA SANCHEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:16:38.000;917179661
 REGION CENTRO ORIENTE;INACTIVO;72137478;SHERLY ATACHAGUA SANCHEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:16:38.000;917179661
+REGION CENTRO ORIENTE;form Apro;72137478;SHERLY ATACHAGUA SANCHEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:16:38.000;917179661
 ;Reg gen;43829673;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:16:26.843;958918429
 REGION NORTE;ACTIVO;75159665;EVERLY JULCA SILVA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:15:31.000;937746068
 ;form derv_corre;75159665;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:15:31.000;937746068
