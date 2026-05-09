@@ -1,4 +1,27 @@
 region;tipo_cliente;dni;cliente;estado_mes_actual;Resumen_mes_actual;Agente;Fecha_que_desea_desembolsar;Fecha_Gestion;telefono_contacto_mes
+;form duda;71348061;;Contactado;Cliente en duda;ROSSANA;;2026-05-09 10:51:11.000;991736543
+;form seg;41822935;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-12;2026-05-09 10:48:00.000;
+;form duda;71790872;;Contactado;Cliente en duda;ROSMERY;;2026-05-09 10:47:29.000;992947844
+;form duda;80516250;;Contactado;Cliente en duda;ROSMERY;;2026-05-09 10:46:58.000;941590105
+;form derv_corre;70684815;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-09;2026-05-09 10:46:36.000;928564495
+;form duda;21000696;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-09 10:43:37.000;902137815
+;form seg;28708690;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-11;2026-05-09 10:38:59.000;
+;form duda;22404611;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-09 10:38:02.000;962740679
+;form duda;41532294;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-09 10:36:39.000;941532294
+;form seg;45211714;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-09;2026-05-09 10:34:46.000;
+;form seg;44671831;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-12;2026-05-09 10:34:26.000;
+;form duda;41532294;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-09 10:32:04.000;941532294
+;form seg;48163444;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-14;2026-05-09 10:31:00.000;
+;form seg;01854282;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-12;2026-05-09 10:30:24.000;
+;form duda;22404611;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-09 10:29:10.000;962740679
+;form seg;49022573;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-12;2026-05-09 10:27:45.000;
+;form duda;43612977;;Contactado;Cliente en duda;ROSMERY;;2026-05-09 10:26:10.000;997544517
+;form seg;48516304;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-09;2026-05-09 10:25:14.000;
+;form seg;45705530;;Creditos en proceso de desembolso;Desembolsara en proximos dias;DANITZA;2026-05-09;2026-05-09 10:24:17.000;
+;form seg;01343081;;Creditos en proceso de desembolso;Desembolsara en proximos dias;LORENA;2026-05-09;2026-05-09 10:22:27.000;
+;form duda;48142284;;Contactado;Cliente en duda;ROSMERY;;2026-05-09 10:19:53.000;913365922
+;form seg;48586596;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ANGIE;2026-05-12;2026-05-09 10:19:06.000;
+;form duda;48142284;;Contactado;Cliente en duda;ROSMERY;;2026-05-09 10:15:50.000;913365922
 ;form duda;70892248;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-09 10:14:43.000;996875145
 ;form derv_corre;28683821;;Contactado;Se derivo a Operaciones;ENY;2026-05-09;2026-05-09 10:13:32.000;914893784
 ;form derv_corre;47896182;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-12;2026-05-09 10:11:34.000;913037966
@@ -54,8 +77,8 @@ REGION AYACUCHO;form Apro;70684815;ELISEO PARIONA GALVEZ;Contactado;Se derivo a 
 ;form duda;73613082;;Contactado;Cliente en duda;DINA LUZ;;2026-05-08 18:30:00.000;958990963
 ;form duda;71744676;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 18:29:33.000;931663943
 ;form duda;74602760;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 18:29:14.000;949801763
-REGION PUNO SUR;ACTIVO;44394109;ALBERTO COAQUIRA JINEZ;Contactado;Se derivo a Operaciones;Eny ;2026-05-09;2026-05-08 18:29:07.000;931418581
 ;form derv_corre;44394109;;Contactado;Se derivo a Operaciones;ENY;2026-05-09;2026-05-08 18:29:07.000;931418581
+REGION PUNO SUR;ACTIVO;44394109;ALBERTO COAQUIRA JINEZ;Contactado;Se derivo a Operaciones;Eny ;2026-05-09;2026-05-08 18:29:07.000;931418581
 ;form duda;61557970;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 18:27:49.000;992434454
 ;Reg gen;74454540;;No contactado;Equivocado;Yakeline Pomacosi Tintaya;;2026-05-08 18:26:40.260;941533450
 ;form duda;46611614;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-08 18:26:17.000;925986029
@@ -312,8 +335,8 @@ REGION CENTRO;ACTIVO;71193400;GLEDYS CABELLO ATACHAGUA;Contactado;Se derivo a Op
 ;Reg gen;70684815;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 16:16:30.113;928564495
 ;Reg gen;43449706;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-08 16:15:23.817;951165778
 ;Reg gen;42084590;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-08 16:13:16.187;916419809
-;form derv_corre;70679960;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-08 16:12:42.000;900837036
 REGION AYACUCHO;ACTIVO;70679960;MARCOS GUADAMUR ZARATE;Contactado;Se derivo a Operaciones;Eny ;2026-05-11;2026-05-08 16:12:42.000;900837036
+;form derv_corre;70679960;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-08 16:12:42.000;900837036
 ;Reg gen;42727292;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-08 16:11:51.220;957218206
 ;Reg gen;73647320;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 16:10:23.087;964630485
 ;Reg gen;70412553;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-08 16:10:16.547;913849986
@@ -522,8 +545,8 @@ REGION AYACUCHO;INACTIVO;77492491;JIMMY CARLOS QUISPE HUAMANI;Contactado;Se deri
 ;form duda;42710195;;Contactado;Cliente en duda;ROSSANA;;2026-05-08 12:31:17.000;997425420
 ;Reg gen;40248655;;Contactado;Contacto con familiar;Rossana Panca Pantigoso;;2026-05-08 12:30:44.877;959108299
 ;Reg gen;33961620;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-08 12:30:16.463;952000604
-REGION NORTE;INACTIVO;76051689;EVA TERRONES ALVARADO;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-09;2026-05-08 12:30:10.000;910675492
 ;form derv_corre;76051689;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-09;2026-05-08 12:30:10.000;910675492
+REGION NORTE;INACTIVO;76051689;EVA TERRONES ALVARADO;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-09;2026-05-08 12:30:10.000;910675492
 ;Reg gen;33585327;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 12:30:00.723;930617511
 ;Reg gen;33569484;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-08 12:29:59.320;975507305
 ;form duda;29564543;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 12:29:56.000;960650708
@@ -706,8 +729,8 @@ REGION AYACUCHO;ACTIVO;70587549;INGRID CARBAJAL MEDINA;Contactado;Se derivo a Op
 ;form duda;21106640;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-08 10:53:54.000;986527657
 ;Reg gen;20962021;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 10:53:51.397;943155049
 ;Reg gen;42256336;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 10:51:44.770;957532401
-REGION CENTRO;INACTIVO;21106640;DOMINICA CASAS RAMIREZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-11;2026-05-08 10:50:58.000;986527657
 ;form derv_corre;21106640;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-11;2026-05-08 10:50:58.000;986527657
+REGION CENTRO;INACTIVO;21106640;DOMINICA CASAS RAMIREZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-11;2026-05-08 10:50:58.000;986527657
 ;form duda;40733887;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 10:50:50.000;994394288
 ;Reg gen;48177912;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 10:49:45.447;957139157
 ;Reg gen;41681975;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-08 10:49:37.960;918211900
@@ -781,13 +804,13 @@ REGION CUSCO;NUEVO;46705634;EDWIN GUEVARA CHACON;Contactado;Se derivo a Operacio
 ;Reg gen;74320732;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-08 10:18:51.543;987231883
 ;Reg gen;44092890;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 10:18:17.720;931219350
 ;form duda;43902809;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-08 10:18:13.000;941233345
-REGION CUSCO;ACTIVO;45314545;MARY APAZA NINA;Contactado;Se derivo a Operaciones;Angie ;2026-05-11;2026-05-08 10:16:53.000;999568233
 ;form derv_corre;45314545;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-11;2026-05-08 10:16:53.000;999568233
+REGION CUSCO;ACTIVO;45314545;MARY APAZA NINA;Contactado;Se derivo a Operaciones;Angie ;2026-05-11;2026-05-08 10:16:53.000;999568233
 ;Reg gen;80125000;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 10:16:25.457;983566458
 ;form duda;48097625;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-08 10:16:10.000;948097625
 ;Reg gen;44082481;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 10:15:37.737;948601157
-REGION NORTE;ACTIVO;70220356;GIAN VERA CONTRERAS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 10:15:19.000;966761082
 REGION NORTE;form Apro;70220356;GIAN VERA CONTRERAS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 10:15:19.000;966761082
+REGION NORTE;ACTIVO;70220356;GIAN VERA CONTRERAS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 10:15:19.000;966761082
 ;Reg gen;73130530;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 10:13:49.120;935182544
 ;Reg gen;70119555;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-08 10:13:06.917;928618984
 ;form duda;71634531;;Contactado;Cliente en duda;ROSSANA;;2026-05-08 10:12:50.000;932002073
@@ -816,8 +839,8 @@ REGION NORTE;form Apro;70220356;GIAN VERA CONTRERAS;Contactado;Se derivo a Opera
 ;form duda;45975668;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-08 10:03:21.000;943578134
 ;form duda;46486794;;Contactado;Cliente en duda;ROSMERY;;2026-05-08 10:03:21.000;957926213
 ;form seg;20087076;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-11;2026-05-08 10:02:34.000;
-REGION PUNO NORTE;ACTIVO;70239560;FREDY APAZA CHURA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-08 10:01:52.000;920511054
 ;form derv_corre;70239560;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-09;2026-05-08 10:01:52.000;920511054
+REGION PUNO NORTE;ACTIVO;70239560;FREDY APAZA CHURA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-08 10:01:52.000;920511054
 ;form duda;71427050;;Contactado;Cliente en duda;ROSMERY;;2026-05-08 10:01:34.000;988349058
 ;Reg gen;42872520;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-08 10:00:32.680;954889278
 ;Reg gen;46672848;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-08 10:00:29.127;916950414
@@ -887,8 +910,8 @@ REGION PUNO NORTE;ACTIVO;02040989;NESTOR CCAPA QUISPE;Contactado;Se derivo a Ope
 ;form duda;19064882;;Contactado;Cliente en duda;ROSSANA;;2026-05-08 09:33:41.000;921006768
 ;Reg gen;70056768;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-08 09:33:17.860;951741002
 ;Reg gen;19064882;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-08 09:33:00.317;921006768
-;form derv_corre;70354678;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-09;2026-05-08 09:32:57.000;967081207
 REGION CUSCO;ACTIVO;70354678;CLAYTON HUAMAN CONDOR;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-09;2026-05-08 09:32:57.000;967081207
+;form derv_corre;70354678;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-09;2026-05-08 09:32:57.000;967081207
 ;form duda;24813022;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-08 09:32:01.000;950720934
 ;form derv_corre;44458572;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-08;2026-05-08 09:31:04.000;927282083
 ;Reg gen;48389633;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-08 09:30:41.950;917007822
@@ -915,8 +938,8 @@ REGION NORTE;ACTIVO;70255451;MARIA DIAZ BECERRA;Contactado;Se derivo a Operacion
 ;Reg gen;33406229;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-08 09:07:54.447;990292650
 ;form duda;42517967;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-08 09:06:57.000;963224609
 ;form duda;70925091;;Contactado;Cliente en duda;ROSSANA;;2026-05-08 09:06:31.000;943300770
-REGION CENTRO;form Apro;76330340;RONALD YALICO OSCCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 09:06:06.000;932231293
 REGION CENTRO;INACTIVO;76330340;RONALD YALICO OSCCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 09:06:06.000;932231293
+REGION CENTRO;form Apro;76330340;RONALD YALICO OSCCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-08 09:06:06.000;932231293
 ;form duda;71475071;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-08 09:05:46.000;935167212
 ;Reg gen;71763367;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-08 09:04:42.423;907837673
 ;Reg gen;70414883;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-08 09:02:59.937;914193278
@@ -1260,8 +1283,8 @@ REGION AYACUCHO;form Apro;28708690;PABLO LUIS LAZARO ROJAS;Contactado;Se derivo 
 ;Reg gen;27060815;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:54:02.527;996874114
 ;Reg gen;27059451;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-07 16:53:36.717;977108130
 ;Reg gen;26717492;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:52:21.137;921925844
-REGION AREQUIPA;ACTIVO;40391224;JOSE LOPEZ ZAVALA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 16:51:51.000;952673348
 ;form derv_corre;40391224;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-09;2026-05-07 16:51:51.000;952673348
+REGION AREQUIPA;ACTIVO;40391224;JOSE LOPEZ ZAVALA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 16:51:51.000;952673348
 ;Reg gen;26716122;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-07 16:51:44.377;976019895
 ;Reg gen;26686419;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:50:45.820;976996242
 ;form duda;46705634;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-07 16:50:20.000;974234866
@@ -1274,8 +1297,8 @@ REGION AREQUIPA;ACTIVO;40391224;JOSE LOPEZ ZAVALA;Contactado;Se derivo a Operaci
 ;Reg gen;24811271;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:44:23.963;982457936
 ;Reg gen;24570639;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:42:46.237;993394037
 ;form duda;46486794;;Contactado;Cliente en duda;ROSMERY;;2026-05-07 16:40:38.000;957926213
-;form derv_corre;72309568;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-09;2026-05-07 16:40:35.000;973790842
 REGION NORTE;ACTIVO;72309568;GRECIA REGALADO DAVILA;Contactado;Se derivo a Operaciones;Angie ;2026-05-09;2026-05-07 16:40:35.000;973790842
+;form derv_corre;72309568;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-09;2026-05-07 16:40:35.000;973790842
 REGION NORTE;ACTIVO;72309568;GRECIA REGALADO DAVILA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-09;2026-05-07 16:40:35.000;973790842
 ;Reg gen;23895972;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:39:48.790;984199628
 ;Reg gen;23880556;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-07 16:39:09.543;984997736
@@ -1312,8 +1335,8 @@ REGION NORTE;ACTIVO;72309568;GRECIA REGALADO DAVILA;Contactado;Se derivo a opera
 ;Reg gen;09925436;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-07 16:11:35.533;921672611
 ;Reg gen;04732966;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-07 16:08:36.280;947277992
 ;Reg gen;04647060;;Contactado;Contacto con familiar;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:08:09.560;964894443
-REGION PUNO NORTE;INACTIVO;70310936;ARRIBALDO RODRIGO PARI;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-07 16:06:31.000;943007572
 ;form derv_corre;70310936;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-07 16:06:31.000;943007572
+REGION PUNO NORTE;INACTIVO;70310936;ARRIBALDO RODRIGO PARI;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-07 16:06:31.000;943007572
 ;Reg gen;04082038;;Contactado;Cliente no interesado;MACHICADO CALLO ANGIE MAYUMI;;2026-05-07 16:05:17.690;978463670
 ;Reg gen;04031222;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 16:04:16.373;957564626
 ;Reg gen;04015700;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-07 16:03:32.777;971973495
@@ -1417,8 +1440,8 @@ REGION AREQUIPA;ACTIVO;40146917;LUZ HANCCO HUAMAN;Contactado;Se derivo a Operaci
 ;Reg gen;00962123;;No contactado;No contesto;LISSETH NERY MENDOZA SILVA;;2026-05-07 15:08:37.613;945197537
 ;Reg gen;61566155;;Contactado;Cliente en duda;LISSETH NERY MENDOZA SILVA;;2026-05-07 15:07:25.397;927536427
 ;Reg gen;01276874;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 15:06:54.647;975444482
-REGION CENTRO ORIENTE;INACTIVO;49020999;ROLI ENCARNACION CANTARO;Contactado;Se derivo a Operaciones;Rossana ;2026-05-08;2026-05-07 15:05:47.000;938806609
 ;form derv_corre;49020999;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-08;2026-05-07 15:05:47.000;938806609
+REGION CENTRO ORIENTE;INACTIVO;49020999;ROLI ENCARNACION CANTARO;Contactado;Se derivo a Operaciones;Rossana ;2026-05-08;2026-05-07 15:05:47.000;938806609
 ;Reg gen;01264694;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 15:04:36.923;951897680
 ;Reg gen;60580397;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 15:03:44.690;954936889
 ;Reg gen;80257219;;No contactado;No contesto;JANETT JUANA LEIVA ROJAS;;2026-05-07 15:03:11.550;928094737
@@ -1466,8 +1489,8 @@ REGION CENTRO;ACTIVO;71991400;LURDES TIZA RIVERA;Contactado;Se derivo a Operacio
 ;Reg gen;00491257;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 13:15:03.727;920554991
 ;Reg gen;78009686;;Contactado;Cliente en duda;Romel Maucaylle Rincon;;2026-05-07 13:15:01.423;925469378
 ;form seg;47032685;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2026-05-09;2026-05-07 13:14:32.000;
-REGION NORTE;form Apro;16749497;CESAR RIVERA PEREZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 13:14:26.000;939672861
 REGION NORTE;ACTIVO;16749497;CESAR RIVERA PEREZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 13:14:26.000;939672861
+REGION NORTE;form Apro;16749497;CESAR RIVERA PEREZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 13:14:26.000;939672861
 ;form seg;70858471;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ANGIE;2026-05-09;2026-05-07 13:13:27.000;
 ;Reg gen;77795953;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 13:13:23.490;938542998
 ;form seg;42744041;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ROSMERY;2026-05-09;2026-05-07 13:13:22.000;
@@ -1510,8 +1533,8 @@ REGION NORTE;ACTIVO;16749497;CESAR RIVERA PEREZ;Contactado;Se derivo a Operacion
 ;form duda;75944640;;Contactado;Cliente en duda;ROSMERY;;2026-05-07 12:50:30.000;979703914
 ;Reg gen;74464377;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-07 12:46:47.273;986411201
 ;Reg gen;73642248;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-07 12:38:40.167;958105014
-;form derv_corre;72774113;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-08;2026-05-07 12:38:37.000;966734762
 REGION NORTE;NUEVO;72774113;MARICIELO TONGO MALDONADO;Contactado;Se derivo a Operaciones;Rossana ;2026-05-08;2026-05-07 12:38:37.000;966734762
+;form derv_corre;72774113;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-08;2026-05-07 12:38:37.000;966734762
 ;Reg gen;72958298;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-07 12:36:18.197;925640900
 ;Reg gen;72199035;;Contactado;Se derivo a oficina;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 12:35:00.487;900895631
 ;Reg gen;47344259;;Contactado;Cliente en duda;Yakeline Pomacosi Tintaya;;2026-05-07 12:34:16.567;991330948
@@ -1521,8 +1544,8 @@ REGION NORTE;NUEVO;72774113;MARICIELO TONGO MALDONADO;Contactado;Se derivo a Ope
 ;Reg gen;72124995;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 12:31:57.990;900491652
 ;Reg gen;47388011;;Contactado;Cliente en duda;HEYDI CAROLAY MAYTA COILA;;2026-05-07 12:31:27.547;927188297
 ;Reg gen;47360721;;No contactado;Equivocado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 12:30:27.253;931062996
-;form derv_corre;80233451;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-08;2026-05-07 12:30:10.000;987899567
 REGION PUNO SUR;ACTIVO;80233451;PEDRO MACHACA LARICO;Contactado;Se derivo a Operaciones;Rossana ;2026-05-08;2026-05-07 12:30:10.000;987899567
+;form derv_corre;80233451;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-08;2026-05-07 12:30:10.000;987899567
 ;form seg;71994365;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ANGIE;2026-05-09;2026-05-07 12:29:17.000;
 ;form derv_corre;74402747;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-07;2026-05-07 12:28:59.000;903480918
 REGION CENTRO ORIENTE;INACTIVO;74402747;SADAN MARTINEZ RAMOS;Contactado;Se derivo a Operaciones;Danitza ;2026-05-07;2026-05-07 12:28:59.000;903480918
@@ -1733,8 +1756,8 @@ REGION NORTE;NUEVO;48175622;JOE HUACCHA ITURBE;Contactado;Se derivo a operacione
 ;form duda;42348468;;Contactado;Cliente en duda;ROSSANA;;2026-05-07 10:49:25.000;976274205
 ;Reg gen;75187904;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 10:49:18.250;907109476
 ;form duda;30647524;;Contactado;Cliente en duda;ROSSANA;;2026-05-07 10:48:22.000;958427064
-REGION CENTRO ORIENTE;ACTIVO;42921975;RUFINO ZEVALLOS ROJAS;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 10:48:13.000;918903542
 ;form derv_corre;42921975;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-09;2026-05-07 10:48:13.000;918903542
+REGION CENTRO ORIENTE;ACTIVO;42921975;RUFINO ZEVALLOS ROJAS;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 10:48:13.000;918903542
 ;Reg gen;75087744;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 10:47:27.573;929959100
 REGION PUNO NORTE;form Apro;75484568;JHON RUSVEL QUISPE AGUILAR;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 10:47:00.000;968034953
 REGION PUNO NORTE;ACTIVO;75484568;JHON RUSVEL QUISPE AGUILAR;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 10:47:00.000;968034953
@@ -1756,8 +1779,8 @@ REGION CENTRO ORIENTE;NUEVO;70076503;ROBERTH MARIN OCHANTES;Contactado;Se derivo
 ;Reg gen;27417308;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 10:38:45.413;939568291
 ;Reg gen;27373731;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 10:38:02.110;976775874
 ;Reg gen;45521601;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 10:36:27.613;986448440
-REGION CENTRO;ACTIVO;80098168;NOE CUSIPOMA LAZO;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 10:36:18.000;974440495
 ;form derv_corre;80098168;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-09;2026-05-07 10:36:18.000;974440495
+REGION CENTRO;ACTIVO;80098168;NOE CUSIPOMA LAZO;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-09;2026-05-07 10:36:18.000;974440495
 ;Reg gen;73817356;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-07 10:35:00.907;961814272
 ;Reg gen;24890270;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 10:34:54.457;974922243
 ;Reg gen;24886843;;Contactado;Contacto con familiar;DANITZA JULIA JALIRI MAMANI;;2026-05-07 10:34:19.750;955836877
@@ -1861,8 +1884,8 @@ REGION AREQUIPA;form Apro;44671831;ANCONEIRA QUICAÑO ROSSMEL EDWIN;Contactado;S
 ;Reg gen;70422901;;Contactado;Se derivo a oficina;Romel Maucaylle Rincon;;2026-05-07 09:57:08.737;902503310
 ;form duda;70679960;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-07 09:57:07.000;900837036
 ;Reg gen;04204232;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 09:57:02.827;945482648
-REGION NORTE;ACTIVO;75788051;JAIME OCUPA CARRASCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 09:56:37.000;931873878
 REGION NORTE;form Apro;75788051;JAIME OCUPA CARRASCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 09:56:37.000;931873878
+REGION NORTE;ACTIVO;75788051;JAIME OCUPA CARRASCO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-07 09:56:37.000;931873878
 ;form seg;21000696;;Se_desanimo;Cliente ya no necesita;ROSSANA;;2026-05-07 09:56:32.000;
 ;Reg gen;22670400;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-07 09:56:29.157;921362049
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-07 09:56:21.000;901803971
@@ -2038,15 +2061,15 @@ REGION NORTE;NUEVO;44034295;FLOR DELGADO SALAZAR;Contactado;Se derivo a Operacio
 ;form duda;40735496;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 18:21:39.000;976562285
 ;form duda;72149744;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 18:21:34.000;947505771
 ;form duda;76818502;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 18:21:12.000;974742143
-;form duda;80125000;;Contactado;Cliente en duda;ROSMERY;;2026-05-06 18:21:03.000;983566458
 ;form duda;71585464;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 18:21:03.000;993769775
+;form duda;80125000;;Contactado;Cliente en duda;ROSMERY;;2026-05-06 18:21:03.000;983566458
 ;form duda;76966050;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 18:20:48.000;943745883
 ;form duda;80107643;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 18:20:26.000;947459947
 ;form duda;33948980;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 18:20:25.000;917174852
 ;form duda;40115028;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 18:20:06.000;975967014
 ;form duda;40634876;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 18:19:58.000;900532848
-REGION CUSCO;ACTIVO;25000633;MARCO GARCIA RAMOS;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 18:19:52.000;938364560
 ;form derv_corre;25000633;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-08;2026-05-06 18:19:52.000;938364560
+REGION CUSCO;ACTIVO;25000633;MARCO GARCIA RAMOS;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 18:19:52.000;938364560
 REGION CUSCO;ACTIVO;25000633;MARCO GARCIA RAMOS;Contactado;Se derivo a Operaciones;Angie ;2026-05-08;2026-05-06 18:19:52.000;938364560
 ;form duda;76929599;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 18:19:45.000;926925179
 ;form duda;74241761;;Contactado;Cliente en duda;ROSSANA;;2026-05-06 18:19:32.000;931796252
@@ -2155,8 +2178,8 @@ REGION CENTRO;ACTIVO;19942554;ODON HUARCAYA VEGA;Contactado;Se derivo a Operacio
 ;form duda;47634248;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-06 17:39:09.000;938197832
 ;Reg gen;71938378;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 17:37:06.417;920669335
 REGION AREQUIPA;INACTIVO;48656771;RENSO QUISPE ALATA;Contactado;Se derivo a Operaciones;Angie ;2026-05-08;2026-05-06 17:35:53.000;958370510
-REGION AREQUIPA;INACTIVO;48656771;RENSO QUISPE ALATA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 17:35:53.000;958370510
 ;form derv_corre;48656771;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-08;2026-05-06 17:35:53.000;958370510
+REGION AREQUIPA;INACTIVO;48656771;RENSO QUISPE ALATA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 17:35:53.000;958370510
 ;Reg gen;78016404;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 17:34:33.507;916023861
 ;Reg gen;77268430;;Contactado;Cliente no interesado;Ecariapazat;;2026-05-06 17:33:51.743;910096512
 ;Reg gen;46219631;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 17:33:42.837;907027725
@@ -2238,8 +2261,8 @@ REGION CENTRO ORIENTE;ACTIVO;42744041;JULIO DIESTRA SIFUENTES;Contactado;Se deri
 ;Reg gen;76052321;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-06 16:59:36.107;951292888
 ;Reg gen;70152485;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 16:58:43.047;963459547
 ;Reg gen;76043963;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 16:57:52.380;973856131
-;form derv_corre;73357285;;Contactado;Se derivo a Operaciones;ENY;2026-05-08;2026-05-06 16:57:27.000;929552194
 REGION CENTRO;ACTIVO;73357285;YAÑAC MOYA YOEL;Contactado;Se derivo a Operaciones;Eny ;2026-05-08;2026-05-06 16:57:27.000;929552194
+;form derv_corre;73357285;;Contactado;Se derivo a Operaciones;ENY;2026-05-08;2026-05-06 16:57:27.000;929552194
 ;Reg gen;75968009;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-06 16:57:22.577;931219336
 ;Reg gen;74097154;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 16:56:27.840;925784423
 ;Reg gen;74058459;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-06 16:56:00.160;968521084
@@ -2299,9 +2322,9 @@ REGION AYACUCHO;NUEVO;41248903;MARIA HUINCHO CONDE;Contactado;Se derivo a Operac
 ;form duda;73613082;;Contactado;Cliente en duda;DINA LUZ;;2026-05-06 16:25:54.000;958990963
 ;Reg gen;73381992;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 16:25:44.743;982223770
 ;Reg gen;73381085;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 16:25:20.650;978172298
-REGION CENTRO;NUEVO;44800826;GERMAN RIOS GERI;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 16:24:35.000;939174292
 REGION CENTRO;NUEVO;44800826;GERMAN RIOS GERI;Contactado;Se derivo a Operaciones;Angie ;2026-05-08;2026-05-06 16:24:35.000;939174292
 ;form derv_corre;44800826;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-08;2026-05-06 16:24:35.000;939174292
+REGION CENTRO;NUEVO;44800826;GERMAN RIOS GERI;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 16:24:35.000;939174292
 ;Reg gen;73315461;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 16:23:58.327;927884045
 ;Reg gen;73355098;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-06 16:23:55.150;900974266
 ;Reg gen;73981922;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 16:23:47.890;919053810
@@ -2479,8 +2502,8 @@ REGION PUNO SUR;ACTIVO;43181747;ISAAC VITAL OSCALLA CCANCCAPA;Contactado;Se deri
 REGION PUNO SUR;ACTIVO;43181747;ISAAC VITAL OSCALLA CCANCCAPA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 15:20:48.000;923875739
 ;Reg gen;47328838;;Contactado;Se derivo a oficina;Romel Maucaylle Rincon;;2026-05-06 15:20:44.007;945947858
 ;Reg gen;73581152;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-06 15:20:37.297;950703347
-REGION CENTRO;form Apro;47171701;ALEX ALVITES PALOMINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-06 15:19:58.000;962117914
 REGION CENTRO;ACTIVO;47171701;ALEX ALVITES PALOMINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-06 15:19:58.000;962117914
+REGION CENTRO;form Apro;47171701;ALEX ALVITES PALOMINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-06 15:19:58.000;962117914
 ;Reg gen;47365017;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-06 15:19:36.640;945161993
 ;form duda;75594314;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 15:18:50.000;924067733
 ;form duda;44800826;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-06 15:18:35.000;939174292
@@ -2523,31 +2546,31 @@ REGION CENTRO;ACTIVO;47171701;ALEX ALVITES PALOMINO;Contactado;Se derivo a Opera
 ;Reg gen;70147975;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 15:03:31.957;996960179
 ;Reg gen;70139262;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 15:02:13.017;931622217
 ;Reg gen;70086020;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 15:01:45.447;945083891
-REGION PUNO SUR;INACTIVO;77320462;URIEL GINEZ CCALLO;Contactado;Se derivo a Operaciones;Eny ;2026-05-11;2026-05-06 15:01:05.000;976236911
 ;form derv_corre;77320462;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-06 15:01:05.000;976236911
+REGION PUNO SUR;INACTIVO;77320462;URIEL GINEZ CCALLO;Contactado;Se derivo a Operaciones;Eny ;2026-05-11;2026-05-06 15:01:05.000;976236911
 ;Reg gen;70132173;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 15:00:46.117;931979994
 ;Reg gen;70080828;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 14:59:28.957;925221260
 ;Reg gen;70063115;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 14:58:57.063;946735224
 ;Reg gen;70059707;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 14:58:46.907;948735000
 ;Reg gen;70039687;;No contactado;Equivocado;Yakeline Pomacosi Tintaya;;2026-05-06 14:58:01.597;945634152
-;form derv_corre;48772975;;Contactado;Se derivo a Operaciones;ENY;2026-05-07;2026-05-06 14:51:07.000;954987502
 REGION AYACUCHO;ACTIVO;48772975;REIDER SANCHEZ GUTIERREZ;Contactado;Se derivo a Operaciones;Eny ;2026-05-07;2026-05-06 14:51:07.000;954987502
+;form derv_corre;48772975;;Contactado;Se derivo a Operaciones;ENY;2026-05-07;2026-05-06 14:51:07.000;954987502
 ;form derv_corre;71568550;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-06 14:46:27.000;900230052
 REGION PUNO SUR;ACTIVO;71568550;JULIANA PACCO HUAMAN;Contactado;Se_derivo_a_operaciones;Rosmery;2026-05-08;2026-05-06 14:46:27.000;900230052
 REGION PUNO SUR;ACTIVO;71568550;JULIANA PACCO HUAMAN;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 14:46:27.000;900230052
-REGION AYACUCHO;ACTIVO;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a Operaciones;Eny ;2026-05-08;2026-05-06 14:39:50.000;932911945
 ;form derv_corre;40709411;;Contactado;Se derivo a Operaciones;ENY;2026-05-08;2026-05-06 14:39:50.000;932911945
-;form derv_corre;60580585;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-06 14:34:34.000;987914535
+REGION AYACUCHO;ACTIVO;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a Operaciones;Eny ;2026-05-08;2026-05-06 14:39:50.000;932911945
 REGION CENTRO;INACTIVO;60580585;TONY OMAR YAICATE MORENO;Contactado;Se derivo a Operaciones;Eny ;2026-05-11;2026-05-06 14:34:34.000;987914535
+;form derv_corre;60580585;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-06 14:34:34.000;987914535
 ;form derv_corre;45906797;;Contactado;Se derivo a Operaciones;ENY;2026-05-09;2026-05-06 14:28:12.000;942448829
 REGION CENTRO;ACTIVO;45906797;KAREN BARDALES FAMAN;Contactado;Se derivo a Operaciones;Eny ;2026-05-09;2026-05-06 14:28:12.000;942448829
 ;form duda;71568550;;Contactado;Cliente en duda;ROSMERY;;2026-05-06 14:25:46.000;900230052
 ;form derv_corre;73492410;;Contactado;Se derivo a Operaciones;ENY;2026-05-11;2026-05-06 14:21:28.000;928620334
 REGION NORTE;ACTIVO;73492410;DANTE SANCHEZ CABANILLAS;Contactado;Se derivo a Operaciones;Eny ;2026-05-11;2026-05-06 14:21:28.000;928620334
-REGION PUNO NORTE;ACTIVO;23956385;LIDIA LIPA APAZA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 14:11:08.000;980679415
 ;form derv_corre;23956385;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-06 14:11:08.000;980679415
-;form derv_corre;70163767;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-06 14:01:57.000;991827552
+REGION PUNO NORTE;ACTIVO;23956385;LIDIA LIPA APAZA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 14:11:08.000;980679415
 REGION CENTRO;NUEVO;70163767;ELIO SIMEON ANGLAS;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 14:01:57.000;991827552
+;form derv_corre;70163767;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-06 14:01:57.000;991827552
 ;form duda;20538112;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-06 13:47:20.000;975518339
 ;form duda;40146917;;Contactado;Cliente en duda;ROSMERY;;2026-05-06 13:45:13.000;974097455
 ;Reg gen;70029337;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 13:43:36.007;953643955
@@ -2758,8 +2781,8 @@ REGION AYACUCHO;form Apro;45552244; FIORELA ALIANO CAPARACHIN ;Contactado;Se der
 ;Reg gen;44091442;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 11:56:20.950;944060625
 ;Reg gen;44370893;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 11:56:07.497;951968105
 ;Reg gen;45108974;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 11:56:07.313;979211820
-REGION AYACUCHO;INACTIVO;43575623;NILO BORDA PILLACA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 11:56:00.000;935467572
 ;form derv_corre;43575623;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-08;2026-05-06 11:56:00.000;935467572
+REGION AYACUCHO;INACTIVO;43575623;NILO BORDA PILLACA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-08;2026-05-06 11:56:00.000;935467572
 ;Reg gen;42731700;;Contactado;Se derivo a oficina;OLIVIA BELINDA AGUILAR LAURA;;2026-05-06 11:55:36.560;900926494
 ;Reg gen;45018953;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-06 11:55:35.107;915222282
 ;Reg gen;40301027;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 11:55:14.523;960508292
@@ -2813,8 +2836,8 @@ REGION AYACUCHO;INACTIVO;43575623;NILO BORDA PILLACA;Contactado;Se derivo a Oper
 ;Reg gen;43575375;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-06 11:39:36.397;992733294
 ;Reg gen;43675149;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 11:39:24.053;996679023
 ;Reg gen;71857218;;Contactado;No califica;LISSETH NERY MENDOZA SILVA;;2026-05-06 11:38:49.937;933036379
-REGION NORTE;INACTIVO;73497017;ROLAND BENAVIDES IZQUIERDO;Contactado;Se derivo a Operaciones;Eny ;2026-05-07;2026-05-06 11:38:42.000;935916739
 ;form derv_corre;73497017;;Contactado;Se derivo a Operaciones;ENY;2026-05-07;2026-05-06 11:38:42.000;935916739
+REGION NORTE;INACTIVO;73497017;ROLAND BENAVIDES IZQUIERDO;Contactado;Se derivo a Operaciones;Eny ;2026-05-07;2026-05-06 11:38:42.000;935916739
 ;Reg gen;72008324;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 11:38:36.253;931325258
 ;Reg gen;41995151;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-06 11:38:01.557;921819118
 ;Reg gen;43551137;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-06 11:37:43.890;956845799
@@ -2856,9 +2879,9 @@ REGION NORTE;INACTIVO;73497017;ROLAND BENAVIDES IZQUIERDO;Contactado;Se derivo a
 ;Reg gen;41998101;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 11:26:05.407;917106151
 ;Reg gen;42770698;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 11:25:47.570;952000700
 ;Reg gen;44406472;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 11:25:15.590;903432960
-REGION CENTRO;ACTIVO;74778812;DIANA CANCHUMONI RIVERA;Contactado;Se derivo a operaciones;Heydi;2026-05-09;2026-05-06 11:24:55.000;928065802
-;form derv_corre;74778812;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-08;2026-05-06 11:24:55.000;928065802
 REGION CENTRO;ACTIVO;74778812;DIANA CANCHUMONI RIVERA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-08;2026-05-06 11:24:55.000;928065802
+;form derv_corre;74778812;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-08;2026-05-06 11:24:55.000;928065802
+REGION CENTRO;ACTIVO;74778812;DIANA CANCHUMONI RIVERA;Contactado;Se derivo a operaciones;Heydi;2026-05-09;2026-05-06 11:24:55.000;928065802
 ;Reg gen;42736650;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-06 11:24:42.823;941077860
 ;Reg gen;23149247;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-06 11:24:41.660;962645807
 ;Reg gen;41230985;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-06 11:24:14.293;961000644
@@ -2966,8 +2989,8 @@ REGION NORTE;ACTIVO;27970896;MARIA VASQUEZ VILLOSLADA DE YALLE;Contactado;Se der
 ;form derv_corre;43673161;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-08;2026-05-06 10:41:09.000;918903146
 REGION PUNO SUR;ACTIVO;43673161;MARCO QUISPE QUISPE;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-08;2026-05-06 10:41:09.000;918903146
 ;Reg gen;24803436;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-06 10:40:38.107;914286257
-;form derv_corre;41023569;;Contactado;Se derivo a Operaciones;ENY;2026-05-07;2026-05-06 10:40:25.000;942115691
 REGION NORTE;ACTIVO;41023569;DORIS SANCHEZ RAFAEL;Contactado;Se derivo a Operaciones;Eny ;2026-05-07;2026-05-06 10:40:25.000;942115691
+;form derv_corre;41023569;;Contactado;Se derivo a Operaciones;ENY;2026-05-07;2026-05-06 10:40:25.000;942115691
 ;Reg gen;33942441;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-06 10:40:20.103;951624431
 ;Reg gen;46851073;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-06 10:39:25.680;925614105
 ;Reg gen;25190735;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-06 10:39:18.953;953195538
@@ -3053,8 +3076,8 @@ REGION AREQUIPA;ACTIVO;23094289;LOURDES VEGA PEDROSO;Contactado;Se derivo a Oper
 ;Reg gen;25185011;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-06 10:08:24.007;984405368
 ;Reg gen;25136144;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-06 10:06:42.293;978272363
 ;Reg gen;02545805;;Contactado;Contacto con familiar;Rossana Panca Pantigoso;;2026-05-06 10:05:39.557;930463480
-REGION PUNO SUR;ACTIVO;01854282;NOLASCO LARICO CONDORI;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-06 10:05:14.000;997448336
 REGION PUNO SUR;form Apro;01854282;NOLASCO LARICO CONDORI ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-06 10:05:14.000;997448336
+REGION PUNO SUR;ACTIVO;01854282;NOLASCO LARICO CONDORI;Contactado;Se derivo a Operaciones;Yakeline;2026-05-07;2026-05-06 10:05:14.000;997448336
 ;form duda;01854282;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 10:04:34.000;997448336
 ;Reg gen;02530944;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 10:03:06.180;973551129
 ;form duda;77492491;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-06 10:02:52.000;977492491
@@ -3101,8 +3124,8 @@ REGION PUNO NORTE;ACTIVO;02275796;FAUSTA MAMANI ALANOCCA;Contactado;Se derivo a 
 ;Reg gen;01873586;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-06 09:38:22.630;951650706
 ;form derv_corre;42434415;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-06;2026-05-06 09:37:53.000;967322957
 REGION AYACUCHO;INACTIVO;42434415;JOHNNY VERAMENDI CACERES;Contactado;Se derivo a Operaciones;Yakeline ;2026-05-06;2026-05-06 09:37:53.000;967322957
-REGION NORTE;INACTIVO;45171548;ZENAIDA FERNANDEZ BARAHONA;Contactado;Se derivo a Operaciones;Rossana ;2026-05-07;2026-05-06 09:35:49.000;996055447
 ;form derv_corre;45171548;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-07;2026-05-06 09:35:49.000;996055447
+REGION NORTE;INACTIVO;45171548;ZENAIDA FERNANDEZ BARAHONA;Contactado;Se derivo a Operaciones;Rossana ;2026-05-07;2026-05-06 09:35:49.000;996055447
 ;Reg gen;01843857;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-06 09:35:28.560;935422013
 ;form seg;10607810;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ENY;2026-05-09;2026-05-06 09:34:52.000;
 ;Reg gen;23206847;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-06 09:34:15.697;991952299
@@ -3119,8 +3142,8 @@ REGION NORTE;INACTIVO;45171548;ZENAIDA FERNANDEZ BARAHONA;Contactado;Se derivo a
 ;Reg gen;01694843;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-06 09:24:47.513;929864661
 ;form duda;46570457;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-06 09:24:40.000;928866734
 ;form duda;77434304;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-06 09:22:46.000;957138001
-REGION NORTE;INACTIVO;73940484;EVER JHON CHAVEZ LOLOY;Contactado;Se derivo a Operaciones;Angie ;2026-05-08;2026-05-06 09:22:40.000;902762775
 ;form derv_corre;73940484;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-08;2026-05-06 09:22:40.000;902762775
+REGION NORTE;INACTIVO;73940484;EVER JHON CHAVEZ LOLOY;Contactado;Se derivo a Operaciones;Angie ;2026-05-08;2026-05-06 09:22:40.000;902762775
 REGION NORTE;INACTIVO;73940484;EVER JHON CHAVEZ LOLOY;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-08;2026-05-06 09:22:40.000;902762775
 ;Reg gen;01539495;;Contactado;Cliente en duda;Yakeline Pomacosi Tintaya;;2026-05-06 09:21:58.243;953445793
 ;form duda;01539495;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 09:21:47.000;953445793
@@ -3144,8 +3167,8 @@ REGION NORTE;INACTIVO;73940484;EVER JHON CHAVEZ LOLOY;Contactado;Se derivo a ope
 ;Reg gen;01242365;;Contactado;Cliente en duda;Yakeline Pomacosi Tintaya;;2026-05-06 09:11:07.423;984280552
 ;form duda;01242365;;Contactado;Cliente en duda;YAKELINE;;2026-05-06 09:09:59.000;984280552
 ;Reg gen;46189419;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 09:09:58.507;971313329
-;form derv_corre;44064371;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-07;2026-05-06 09:08:08.000;986742824
 REGION PUNO SUR;ACTIVO;44064371;CANDELARIA COAQUIRA CABANA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-07;2026-05-06 09:08:08.000;986742824
+;form derv_corre;44064371;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-07;2026-05-06 09:08:08.000;986742824
 ;Reg gen;01099374;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-06 09:07:49.177;928935033
 ;Reg gen;33425889;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-06 09:06:30.937;949548810
 ;Reg gen;01302123;;No contactado;Apagado;Romel Maucaylle Rincon;;2026-05-06 09:06:04.223;918639394
@@ -3170,11 +3193,11 @@ REGION AYACUCHO;form Apro;42434415;JOHNNY VERAMENDI CACERES;Contactado;Se derivo
 ;Reg gen;70806423;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 18:33:07.100;975622685
 ;Reg gen;72089638;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 18:32:19.857;930570405
 ;form duda;49020999;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 18:30:47.000;938806609
-;form derv_corre;73237931;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 18:30:22.000;937163140
 REGION CENTRO ORIENTE;ACTIVO;73237931;MILER LINO Y RAMIREZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 18:30:22.000;937163140
+;form derv_corre;73237931;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 18:30:22.000;937163140
 REGION PUNO NORTE;ACTIVO;42166023;MILAGROS QUISPE MAMANI;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 18:30:16.000;929184944
-;form derv_corre;42166023;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 18:30:16.000;929184944
 REGION PUNO NORTE;ACTIVO;42166023;MILAGROS QUISPE MAMANI;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 18:30:16.000;929184944
+;form derv_corre;42166023;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 18:30:16.000;929184944
 ;Reg gen;72075670;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 18:30:12.487;900149550
 REGION CUSCO;ACTIVO;72025079;EDWIN CHOQUECCOTA CHOQUECCOTA;Contactado;Se derivo a Operaciones;Yakeline ;2026-05-07;2026-05-05 18:29:23.000;971076989
 ;form derv_corre;72025079;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-07;2026-05-05 18:29:23.000;971076989
@@ -3287,8 +3310,8 @@ REGION PUNO SUR;INACTIVO;71451360;JOSE HUAYTA TICONA;Contactado;Se derivo a Oper
 ;Reg gen;70553216;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-05 18:04:34.350;979787011
 ;form seg;16434742;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-07;2026-05-05 18:04:22.000;
 ;form derv_corre;43143831;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 18:04:21.000;982662524
-REGION NORTE;ACTIVO;43143831;PATRICIA DEL ROSARIO CORONEL OLIVA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 18:04:21.000;982662524
 REGION NORTE;ACTIVO;43143831;PATRICIA DEL ROSARIO CORONEL OLIVA;Contactado;Se derivo a operaciones;Heydi;2026-05-08;2026-05-05 18:04:21.000;982662524
+REGION NORTE;ACTIVO;43143831;PATRICIA DEL ROSARIO CORONEL OLIVA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 18:04:21.000;982662524
 ;form duda;47671214;;Contactado;Cliente en duda;LORENA;;2026-05-05 18:04:04.000;949483510
 ;form seg;45212380;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-06;2026-05-05 18:03:26.000;
 ;form duda;75484568;;Contactado;Cliente en duda;LORENA;;2026-05-05 18:02:56.000;916325930
@@ -3320,9 +3343,9 @@ REGION CENTRO ORIENTE;INACTIVO;46971555;DENIS LEONARDO QUIROZ ENCARNACION;Contac
 ;form duda;43365827;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 17:42:05.000;948558881
 ;form seg;00162998;;Creditos en proceso de desembolso;Desembolsara en proximos dias;ANGIE;2026-05-07;2026-05-05 17:41:19.000;
 ;form duda;70923036;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 17:40:03.000;982463603
+;form derv_corre;40073232;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 17:39:57.000;952490021
 REGION PUNO SUR;ACTIVO;40073232;MELQUIADES SILLO SUCASACA;Contactado;Se derivo a operaciones;Heydi;;2026-05-05 17:39:57.000;952490021
 REGION PUNO SUR;ACTIVO;40073232;MELQUIADES SILLO SUCASACA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 17:39:57.000;952490021
-;form derv_corre;40073232;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 17:39:57.000;952490021
 ;form duda;70923036;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 17:39:01.000;982463603
 ;form duda;41895642;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 17:38:16.000;916195463
 ;form duda;41177482;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 17:37:18.000;951803751
@@ -3349,8 +3372,8 @@ REGION PUNO SUR;ACTIVO;40073232;MELQUIADES SILLO SUCASACA;Contactado;Se derivo a
 ;form duda;70163767;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 17:25:49.000;991827552
 ;Reg gen;43897011;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-05 17:23:51.647;900471261
 ;form duda;73766506;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-05 17:22:49.000;983785406
-REGION AYACUCHO;form Apro;41245319;ABEL HUACCHOHUILLCA LOPEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 17:22:25.000;928113812
 REGION AYACUCHO;INACTIVO;41245319;ABEL HUACCHOHUILLCA LOPEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 17:22:25.000;928113812
+REGION AYACUCHO;form Apro;41245319;ABEL HUACCHOHUILLCA LOPEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 17:22:25.000;928113812
 ;Reg gen;77160620;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-05 17:22:00.183;975094350
 REGION CENTRO;INACTIVO;75916308;SHAKIRA PASHCO PUNIRO;Contactado;Se derivo a Operaciones;Lorena ;2026-05-07;2026-05-05 17:21:48.000;943547985
 ;form derv_corre;75916308;;Contactado;Se derivo a Operaciones;LORENA;2026-05-07;2026-05-05 17:21:48.000;943547985
@@ -3566,13 +3589,13 @@ REGION CENTRO ORIENTE;INACTIVO;43694597;CENEN TRUJILLO SALVADOR;Contactado;Se de
 ;Reg gen;24705103;;Contactado;Se derivo a oficina;LISSETH NERY MENDOZA SILVA;;2026-05-05 15:12:14.507;918409658
 ;Reg gen;30582854;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 15:12:04.500;957827980
 ;Reg gen;02549742;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-05 15:11:29.427;927188878
-REGION CENTRO;ACTIVO;47728562;YVAN CHACON HERRERA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 15:11:25.000;956971356
 REGION CENTRO;ACTIVO;47728562;YVAN CHACON HERRERA;Contactado;Se derivo a operaciones;Heydi;;2026-05-05 15:11:25.000;956971356
 ;form derv_corre;47728562;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 15:11:25.000;956971356
+REGION CENTRO;ACTIVO;47728562;YVAN CHACON HERRERA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 15:11:25.000;956971356
 ;Reg gen;29328863;;No contactado;No contesto;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 15:10:30.040;974286865
-REGION NORTE;ACTIVO;47732887;WILMER HORNA TAFUR;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 15:10:27.000;959474251
-;form derv_corre;47732887;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 15:10:27.000;959474251
 REGION NORTE;ACTIVO;47732887;WILMER HORNA TAFUR;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 15:10:27.000;959474251
+;form derv_corre;47732887;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 15:10:27.000;959474251
+REGION NORTE;ACTIVO;47732887;WILMER HORNA TAFUR;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 15:10:27.000;959474251
 ;Reg gen;80567682;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-05 15:10:08.970;921205135
 ;form duda;48906435;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 15:09:19.000;979348299
 ;Reg gen;44270678;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-05 15:06:37.280;907891211
@@ -3610,9 +3633,9 @@ REGION AYACUCHO;ACTIVO;70123607;JESUSA PALOMINO ATAHUA;Contactado;Se derivo a Op
 REGION AYACUCHO;form Apro;70123607;JESUSA PALOMINO ATAHUA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-05 14:28:53.000;987957958
 ;form duda;72541919;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 14:25:50.000;961876196
 ;form duda;70123607;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 14:25:32.000;987957958
-;form derv_corre;70914002;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 13:56:43.000;985231028
-REGION NORTE;ACTIVO;70914002;RAQUEL VERASTEGUI TAPIA;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 13:56:43.000;985231028
 REGION NORTE;ACTIVO;70914002;RAQUEL VERASTEGUI TAPIA;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 13:56:43.000;985231028
+REGION NORTE;ACTIVO;70914002;RAQUEL VERASTEGUI TAPIA;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 13:56:43.000;985231028
+;form derv_corre;70914002;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 13:56:43.000;985231028
 ;form derv_corre;74436040;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-06;2026-05-05 13:47:36.000;953222957
 REGION CUSCO;NUEVO;74436040;LIDIA ARAHUALLPA PAPEL;Contactado;Se derivo a Operaciones;Rossana ;2026-05-06;2026-05-05 13:47:36.000;953222957
 ;form duda;71744676;;Contactado;Cliente en duda;DINA LUZ;;2026-05-05 13:38:25.000;931663943
@@ -3622,8 +3645,8 @@ REGION CUSCO;NUEVO;74436040;LIDIA ARAHUALLPA PAPEL;Contactado;Se derivo a Operac
 ;Reg gen;80324477;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-05 13:29:51.220;934383870
 ;Reg gen;80244669;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-05 13:28:13.917;926058621
 ;Reg gen;80240336;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-05 13:27:05.140;938499261
-;form derv_corre;01495145;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-07;2026-05-05 13:27:05.000;968302065
 REGION PUNO SUR;ACTIVO;01495145;MARIA MENDOZA QUISPE;Contactado;Se derivo a Operaciones;Danitza ;2026-05-07;2026-05-05 13:27:05.000;968302065
+;form derv_corre;01495145;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-07;2026-05-05 13:27:05.000;968302065
 ;Reg gen;80160361;;Contactado;Contacto con familiar;Rossana Panca Pantigoso;;2026-05-05 13:25:23.777;997701707
 ;Reg gen;80125000;;Contactado;Se derivo a oficina;ROSMERY VILCA PATHI;;2026-05-05 13:24:13.113;983566458
 REGION PUNO NORTE;ACTIVO;47032685;NIME CHOQUEHUANCA PHOCCO;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 13:23:23.000;982873799
@@ -3722,8 +3745,8 @@ REGION CENTRO;INACTIVO;70341503;MARY PICHUCA CUBA;Contactado;Se derivo a Operaci
 REGION CENTRO;ACTIVO;74123262;RONY HUAYNALAYA VILCHEZ;Contactado;Se derivo a operaciones;Heydi;;2026-05-05 12:41:48.000;973639537
 REGION CENTRO;ACTIVO;74123262;RONY HUAYNALAYA VILCHEZ;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 12:41:48.000;973639537
 ;form derv_corre;74123262;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 12:41:48.000;973639537
-REGION NORTE;NUEVO;76134938;WILSON PERALTA MAZA;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-05 12:41:44.000;940577491
 REGION NORTE;form Apro;76134938;WILSON PERALTA MAZA;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-05 12:41:44.000;940577491
+REGION NORTE;NUEVO;76134938;WILSON PERALTA MAZA;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-05 12:41:44.000;940577491
 ;Reg gen;45957028;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-05 12:41:34.213;939656496
 ;Reg gen;45931980;;Contactado;Cliente en duda;HEYDI CAROLAY MAYTA COILA;;2026-05-05 12:41:31.387;900871175
 ;form duda;45931980;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-05 12:41:24.000;900871175
@@ -3739,14 +3762,14 @@ REGION NORTE;ACTIVO;45295688;PAULA HONORIO BURGOS;Contactado;Se derivo a Operaci
 ;Reg gen;44999194;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-05 12:38:44.667;972436205
 ;Reg gen;42528301;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-05 12:38:32.763;964375679
 ;Reg gen;42478898;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-05 12:37:12.987;958007328
-REGION NORTE;ACTIVO;46297707;MAGALY FUSTAMANTE DIAZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 12:37:10.000;939005520
 REGION NORTE;ACTIVO;46297707;MAGALY FUSTAMANTE DIAZ;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 12:37:10.000;939005520
 ;form derv_corre;46297707;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 12:37:10.000;939005520
+REGION NORTE;ACTIVO;46297707;MAGALY FUSTAMANTE DIAZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 12:37:10.000;939005520
 ;Reg gen;04338940;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-05 12:36:37.513;940119170
 ;Reg gen;45377795;;Contactado;Cliente no interesado;MACHICADO CALLO ANGIE MAYUMI;;2026-05-05 12:34:40.173;952782853
 ;Reg gen;41594841;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-05 12:34:08.430;927800470
-REGION NORTE;form Apro;45212380;GABI SOSA TINEO  ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-05 12:34:01.000;972330122
 REGION NORTE;ACTIVO;45212380;GABI SOSA TINEO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-05 12:34:01.000;972330122
+REGION NORTE;form Apro;45212380;GABI SOSA TINEO  ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-05 12:34:01.000;972330122
 ;Reg gen;45295688;;Contactado;Cliente en duda;ROSMERY VILCA PATHI;;2026-05-05 12:33:46.517;910033488
 ;Reg gen;45212380;;Contactado;Se derivo a oficina;Yakeline Pomacosi Tintaya;;2026-05-05 12:33:16.807;972330122
 ;form duda;45212380;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 12:33:12.000;972330122
@@ -3802,8 +3825,8 @@ REGION CENTRO ORIENTE;ACTIVO;42766897;JUAN CHAVEZ REQUEJO;Contactado;Se derivo a
 ;form duda;77431348;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-05 12:08:54.000;977431348
 ;form duda;44531826;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 12:08:45.000;910815210
 ;form duda;42766897;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 12:08:30.000;972825144
-;form derv_corre;00000100;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-07;2026-05-05 12:08:11.000;972375753
 REGION CENTRO ORIENTE;ACTIVO;00000100;SEGUNDO CURTO PEZO;Contactado;Se derivo a Operaciones;Danitza ;2026-05-07;2026-05-05 12:08:11.000;972375753
+;form derv_corre;00000100;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-07;2026-05-05 12:08:11.000;972375753
 ;Reg gen;41238370;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-05 12:07:39.417;928878557
 ;form derv_corre;41549954;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 12:06:51.000;958248819
 ;form duda;74241761;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 12:06:51.000;931796252
@@ -3848,22 +3871,22 @@ REGION CENTRO;ACTIVO;76310746;CELIDA GRANADOS AMES;Contactado;Se derivo a Operac
 ;form derv_corre;74602944;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 11:45:41.000;950784384
 REGION CENTRO ORIENTE;INACTIVO;74602944;ÑAUPA ESTELA CLASI;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 11:45:41.000;950784384
 REGION CENTRO ORIENTE;INACTIVO;74602944;ÑAUPA ESTELA CLASI;Contactado;Se derivo a operaciones;Heydi;;2026-05-05 11:45:41.000;950784384
-REGION PUNO SUR;form Apro;70127598;VILMA TICONA INCACUTIPA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 11:44:26.000;929291092
 REGION PUNO SUR;INACTIVO;70127598;VILMA TICONA INCACUTIPA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 11:44:26.000;929291092
+REGION PUNO SUR;form Apro;70127598;VILMA TICONA INCACUTIPA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-06;2026-05-05 11:44:26.000;929291092
 ;Reg gen;77912470;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 11:44:09.533;999184085
 ;Reg gen;45094888;;No contactado;Equivocado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 11:43:32.940;902235275
 ;form duda;00000100;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-05 11:43:26.000;972375753
 ;Reg gen;42841516;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-05 11:43:25.253;993732419
 REGION PUNO SUR;ACTIVO;01867480;LIZANDRO MENDOZA CHARA;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-05 11:42:38.000;910310765
 REGION PUNO SUR;form Apro;01867480;LIZANDRO MENDOZA CHARA;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-05 11:42:38.000;910310765
+REGION CENTRO ORIENTE;ACTIVO;00993021;ALFREDO PAREDEZ MENDOZA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 11:42:35.000;945698721
 REGION CENTRO ORIENTE;ACTIVO;00993021;ALFREDO PAREDEZ MENDOZA;Contactado;Se derivo a operaciones;Heydi;2026-05-08;2026-05-05 11:42:35.000;945698721
 ;form derv_corre;00993021;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-07;2026-05-05 11:42:35.000;945698721
-REGION CENTRO ORIENTE;ACTIVO;00993021;ALFREDO PAREDEZ MENDOZA;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-07;2026-05-05 11:42:35.000;945698721
-REGION CENTRO ORIENTE;ACTIVO;47647451;MELISSA MATAZOGLIO SANCHEZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 11:34:52.000;966113091
 ;form derv_corre;47647451;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 11:34:52.000;966113091
+REGION CENTRO ORIENTE;ACTIVO;47647451;MELISSA MATAZOGLIO SANCHEZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 11:34:52.000;966113091
+REGION NORTE;INACTIVO;48222307;FANNY EMPERATRIZ FLORES DIAZ;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 11:34:29.000;975913226
 ;form derv_corre;48222307;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-07;2026-05-05 11:34:29.000;975913226
 REGION NORTE;INACTIVO;48222307;FANNY EMPERATRIZ FLORES DIAZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-07;2026-05-05 11:34:29.000;975913226
-REGION NORTE;INACTIVO;48222307;FANNY EMPERATRIZ FLORES DIAZ;Contactado;Se derivo a operaciones;Angie Mayumi;;2026-05-05 11:34:29.000;975913226
 ;Reg gen;01861518;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 11:33:43.743;941134148
 ;form duda;33593210;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-05 11:32:39.000;943877485
 ;Reg gen;31177896;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 11:31:48.847;938326329
@@ -3934,14 +3957,14 @@ REGION NORTE;INACTIVO;47821688;MARY LUMBRE AZABACHE;Contactado;Se derivo a Opera
 ;Reg gen;23382281;;Contactado;Cliente en duda;MACHICADO CALLO ANGIE MAYUMI;;2026-05-05 10:56:25.990;965020118
 ;Reg gen;23688455;;No contactado;Equivocado;LISSETH NERY MENDOZA SILVA;;2026-05-05 10:55:39.780;991255630
 ;Reg gen;23176207;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-05 10:54:52.470;966476048
-REGION AREQUIPA;INACTIVO;75015687;JUANA CCAHUA GONZALES;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 10:54:34.000;958121628
 ;form derv_corre;75015687;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 10:54:34.000;958121628
+REGION AREQUIPA;INACTIVO;75015687;JUANA CCAHUA GONZALES;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 10:54:34.000;958121628
 ;Reg gen;10804702;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-05 10:53:50.963;967273101
 ;form duda;16715579;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-05 10:53:45.000;940706098
 ;Reg gen;22666405;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 10:52:51.767;976730171
 ;Reg gen;23141150;;Contactado;Contacto con familiar;LISSETH NERY MENDOZA SILVA;;2026-05-05 10:52:45.110;965314741
-REGION AYACUCHO;form Apro;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-08;2026-05-05 10:52:45.000;932911945
 REGION AYACUCHO;ACTIVO;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-08;2026-05-05 10:52:45.000;932911945
+REGION AYACUCHO;form Apro;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-08;2026-05-05 10:52:45.000;932911945
 ;Reg gen;22665228;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-05 10:51:16.560;962754203
 ;form duda;47634248;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-05 10:50:42.000;938197832
 ;Reg gen;76012150;;Contactado;No califica;JANETT JUANA LEIVA ROJAS;;2026-05-05 10:50:14.967;982242742
@@ -3964,8 +3987,8 @@ REGION AYACUCHO;ACTIVO;40709411;MELCHORA DE LA CRUZ LOPEZ;Contactado;Se derivo a
 ;form duda;42670954;;Contactado;Cliente en duda;YAKELINE;;2026-05-05 10:43:06.000;963550422
 ;Reg gen;20566175;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 10:42:57.553;966907443
 ;Reg gen;44238327;;No contactado;Equivocado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 10:42:31.413;921575070
-REGION CENTRO;INACTIVO;45300067;ROOSBELL FLORENCIO MARIN VELASQUEZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 10:42:28.000;952924583
 ;form derv_corre;45300067;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 10:42:28.000;952924583
+REGION CENTRO;INACTIVO;45300067;ROOSBELL FLORENCIO MARIN VELASQUEZ;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 10:42:28.000;952924583
 ;Reg gen;19813528;;Contactado;Contacto con familiar;LISSETH NERY MENDOZA SILVA;;2026-05-05 10:40:00.533;930371768
 ;Reg gen;46383711;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-05 10:39:51.633;925772578
 ;Reg gen;47364258;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 10:39:15.080;998543039
@@ -4037,8 +4060,8 @@ REGION CENTRO;ACTIVO;41030822;MARTHA ORE MONTES;Contactado;Se derivo a Operacion
 ;Reg gen;46443863;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 10:14:02.340;925044265
 ;form duda;43163824;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 10:13:58.000;991022463
 ;Reg gen;02031019;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-05 10:13:19.993;910678713
-;form derv_corre;75944640;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 10:13:12.000;979703914
 REGION AYACUCHO;INACTIVO;75944640;SUSAN FERNANDEZ CORAHUA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-07;2026-05-05 10:13:12.000;979703914
+;form derv_corre;75944640;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-07;2026-05-05 10:13:12.000;979703914
 ;Reg gen;01267222;;Contactado;Contacto con familiar;HEYDI CAROLAY MAYTA COILA;;2026-05-05 10:13:01.233;944633636
 ;Reg gen;01869601;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-05 10:11:56.837;918805268
 ;Reg gen;01865871;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 10:10:55.363;966956696
@@ -4065,9 +4088,9 @@ REGION AYACUCHO;INACTIVO;75944640;SUSAN FERNANDEZ CORAHUA;Contactado;Se derivo a
 ;Reg gen;23466339;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-05 10:00:08.127;932463520
 ;Reg gen;23094289;;Contactado;Cliente en duda;ROSMERY VILCA PATHI;;2026-05-05 10:00:04.273;973645556
 ;form duda;23094289;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 09:59:59.000;973645556
-REGION NORTE;INACTIVO;70858471;RONY MIJAHUANGA VERA;Contactado;Se derivo a Operaciones;Angie ;2026-05-06;2026-05-05 09:59:52.000;947050513
 ;form derv_corre;70858471;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-06;2026-05-05 09:59:52.000;947050513
 REGION NORTE;INACTIVO;70858471;RONY MIJAHUANGA VERA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-07;2026-05-05 09:59:52.000;947050513
+REGION NORTE;INACTIVO;70858471;RONY MIJAHUANGA VERA;Contactado;Se derivo a Operaciones;Angie ;2026-05-06;2026-05-05 09:59:52.000;947050513
 ;form duda;23094289;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 09:59:06.000;973645556
 ;Reg gen;01556867;;Contactado;Cliente en duda;Yakeline Pomacosi Tintaya;;2026-05-05 09:57:33.020;921677039
 REGION CENTRO;form Apro;60580585;TONY OMAR YAICATE MORENO;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-05 09:56:47.000;987914535
@@ -4078,13 +4101,13 @@ REGION NORTE;form Apro;46486167;SANTOS SIFUENTES ACEVEDO;Contactado;Se derivo a 
 ;Reg gen;44663232;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 09:52:30.110;967147211
 ;form duda;73605583;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 09:52:26.000;972549498
 ;Reg gen;01543793;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 09:52:07.680;972880971
-REGION CENTRO;form Apro;21130223;ELSA ASTETE BOVIS ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-05 09:51:36.000;900677128
 REGION CENTRO;ACTIVO;21130223;ELSA ASTETE BOVIS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-05 09:51:36.000;900677128
+REGION CENTRO;form Apro;21130223;ELSA ASTETE BOVIS ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-08;2026-05-05 09:51:36.000;900677128
 ;form duda;75015687;;Contactado;Cliente en duda;ROSMERY;;2026-05-05 09:51:32.000;958121628
 ;Reg gen;01188950;;Contactado;No califica;ROSMERY VILCA PATHI;;2026-05-05 09:51:13.370;936114739
 ;Reg gen;42600632;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 09:51:02.800;906301914
-;form derv_corre;73812954;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-11;2026-05-05 09:50:15.000;983138071
 REGION PUNO NORTE;ACTIVO;73812954;ADELAYDA YAMILED PAUCAR SANCHEZ;Contactado;Se derivo a Operaciones;Yakeline ;2026-05-11;2026-05-05 09:50:15.000;983138071
+;form derv_corre;73812954;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-11;2026-05-05 09:50:15.000;983138071
 ;Reg gen;01522390;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 09:49:00.343;957044190
 ;Reg gen;42226778;;Contactado;No califica;JANETT JUANA LEIVA ROJAS;;2026-05-05 09:48:50.897;918276754
 ;Reg gen;22516920;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-05 09:48:22.607;933814927
@@ -4119,8 +4142,8 @@ REGION NORTE;INACTIVO;27254178;MANUEL BOBADILLA DIAZ;Contactado;Se derivo a Oper
 ;Reg gen;20103015;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 09:31:19.043;964402809
 REGION AREQUIPA;form Apro;40939174;VIDAL MAMANI CUTIPA;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-05 09:31:11.000;956494829
 REGION AREQUIPA;ACTIVO;40939174;VIDAL MAMANI CUTIPA;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-05 09:31:11.000;956494829
-;form derv_corre;61531704;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-06;2026-05-05 09:29:18.000;977238983
 REGION NORTE;INACTIVO;61531704;DANY BURGA VASQUEZ;Contactado;Se derivo a Operaciones;Rossana ;2026-05-06;2026-05-05 09:29:18.000;977238983
+;form derv_corre;61531704;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-06;2026-05-05 09:29:18.000;977238983
 ;Reg gen;20002614;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-05 09:27:39.537;913636937
 ;Reg gen;19249283;;No contactado;Equivocado;Yakeline Pomacosi Tintaya;;2026-05-05 09:24:26.880;940697791
 ;Reg gen;46993977;;Contactado;Cliente en duda;OLIVIA BELINDA AGUILAR LAURA;;2026-05-05 09:24:12.253;925183583
@@ -4151,8 +4174,8 @@ REGION CUSCO;ACTIVO;48378870;RONAL CCASA CJUNO;Contactado;Se derivo a Operacione
 ;form duda;61531704;;Contactado;Cliente en duda;ROSSANA;;2026-05-05 09:01:24.000;977238983
 ;Reg gen;04338466;;Contactado;Cliente no interesado;LISSETH NERY MENDOZA SILVA;;2026-05-05 09:01:22.980;904109557
 ;form duda;40732895;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-05 09:01:22.000;929621414
-;form derv_corre;70513805;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-06;2026-05-05 08:59:37.000;933544434
 REGION AREQUIPA;ACTIVO;70513805;DIEGO MAMANI QUISPE;Contactado;Se derivo a Operaciones;Rossana ;2026-05-06;2026-05-05 08:59:37.000;933544434
+;form derv_corre;70513805;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-06;2026-05-05 08:59:37.000;933544434
 ;form duda;46324333;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-05 08:58:15.000;967168016
 ;form duda;27254178;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-05 08:57:14.000;974282702
 ;form duda;46486167;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-05 08:57:07.000;974864241
@@ -4204,8 +4227,8 @@ REGION PUNO SUR;ACTIVO;74497396;JESUS PAUCARA INCAHUANACO;Contactado;Se derivo a
 ;Reg gen;75630477;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-04 18:25:42.767;932618733
 ;form seg;72957597;;Creditos en proceso de desembolso;Desembolsara en proximos dias;YAKELINE;2026-05-05;2026-05-04 18:25:34.000;
 ;Reg gen;74881120;;No contactado;Equivocado;HEYDI CAROLAY MAYTA COILA;;2026-05-04 18:25:07.480;903407043
-;form derv_corre;48516304;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-08;2026-05-04 18:24:34.000;944863983
 REGION NORTE;ACTIVO;48516304;OBDULIA JOSEFINA CASTRO VASQUEZ;Contactado;Se derivo a Operaciones;Yakeline ;2026-05-08;2026-05-04 18:24:34.000;944863983
+;form derv_corre;48516304;;Contactado;Se derivo a Operaciones;YAKELINE;2026-05-08;2026-05-04 18:24:34.000;944863983
 ;form derv_corre;76948666;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 18:19:37.000;950240857
 REGION PUNO NORTE;ACTIVO;76948666;VICTOR FELIX LUQUE TICONA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 18:19:37.000;950240857
 ;form duda;71541653;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 18:16:34.000;914631594
@@ -4228,8 +4251,8 @@ REGION CENTRO;INACTIVO;45300067;ROOSBELL FLORENCIO MARIN VELASQUEZ;Contactado;Se
 ;Reg gen;45434089;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 17:58:42.620;925705363
 ;Reg gen;45536987;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-04 17:58:22.217;968418577
 ;Reg gen;44521267;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-04 17:56:58.817;978206720
-;form derv_corre;40675880;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 17:56:12.000;985199451
 REGION AYACUCHO;ACTIVO;40675880;RICHARD ORTEGA GONZALES;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 17:56:12.000;985199451
+;form derv_corre;40675880;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 17:56:12.000;985199451
 ;Reg gen;44322248;;Contactado;Cliente no interesado;HEYDI CAROLAY MAYTA COILA;;2026-05-04 17:55:47.317;917818335
 ;Reg gen;43874921;;Contactado;Cliente no interesado;ROSMERY VILCA PATHI;;2026-05-04 17:55:25.610;978092654
 ;form duda;28591361;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 17:55:01.000;916177131
@@ -4249,8 +4272,8 @@ REGION AYACUCHO;ACTIVO;40675880;RICHARD ORTEGA GONZALES;Contactado;Se derivo a O
 ;form duda;09831141;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 17:46:38.000;910705016
 ;form duda;28591361;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 17:46:10.000;916177131
 ;Reg gen;29360508;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-04 17:43:30.537;972032227
-;form derv_corre;28467116;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 17:39:08.000;927154825
 REGION AYACUCHO;ACTIVO;28467116;CELSO MARCELO ORDAYA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 17:39:08.000;927154825
+;form derv_corre;28467116;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 17:39:08.000;927154825
 ;form seg;48667386;;Incidencias;Desembolso ADN por menor tasaADN;LORENA;;2026-05-04 17:37:25.000;
 ;form duda;20972112;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 17:35:47.000;920972112
 ;Reg gen;22496047;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-04 17:34:50.410;987569713
@@ -4305,8 +4328,8 @@ REGION CENTRO ORIENTE;INACTIVO;23164628;CLEMENTINA ORIZANO DURAN;Contactado;Se d
 ;form duda;61833419;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 16:37:17.000;961833419
 ;form duda;77168246;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 16:36:27.000;921685331
 ;form duda;77168246;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 16:34:44.000;921685331
-;form derv_corre;43020658;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 16:33:06.000;906820508
 REGION CENTRO;INACTIVO;43020658;VIVIANA CLEMENTE ROMERO;Contactado;Se derivo a Operaciones;Rossana ;2026-05-05;2026-05-04 16:33:06.000;906820508
+;form derv_corre;43020658;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 16:33:06.000;906820508
 REGION AYACUCHO;INACTIVO;77333237;YULISSA ATOCCSA OYOLO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 16:31:13.000;931157855
 REGION AYACUCHO;form Apro;77333237;YULISSA ATOCCSA OYOLO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 16:31:13.000;931157855
 ;form derv_corre;72137478;;Contactado;Se derivo a Operaciones;ENY;2026-05-05;2026-05-04 16:30:51.000;917179661
@@ -4325,8 +4348,8 @@ REGION AYACUCHO;form Apro;77333237;YULISSA ATOCCSA OYOLO;Contactado;Se derivo a 
 ;form duda;40115028;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 16:15:42.000;975967014
 ;form duda;48855515;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 16:13:00.000;948855515
 ;form duda;23164628;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 16:11:36.000;929249809
-REGION CENTRO ORIENTE;INACTIVO;47597220;MIFLIN ADRIAN LOARTE;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 16:11:22.000;983702186
 ;form derv_corre;47597220;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 16:11:22.000;983702186
+REGION CENTRO ORIENTE;INACTIVO;47597220;MIFLIN ADRIAN LOARTE;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 16:11:22.000;983702186
 ;form duda;73602724;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 16:08:11.000;948772461
 ;form duda;45300067;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 16:07:38.000;952924583
 ;form duda;45300067;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 16:07:22.000;952924583
@@ -4368,8 +4391,8 @@ REGION PUNO SUR;ACTIVO;73347658;LIZBETH CAHUI TURPO;Contactado;Se derivo a Opera
 ;form duda;70321622;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 15:36:14.000;970321622
 ;form duda;43694597;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 15:35:37.000;944922130
 ;form duda;22663201;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 15:34:38.000;962268029
-REGION CENTRO;INACTIVO;71229539;YULIANA CABELLO ALANYA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 15:28:13.000;970611853
 ;form derv_corre;71229539;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 15:28:13.000;970611853
+REGION CENTRO;INACTIVO;71229539;YULIANA CABELLO ALANYA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 15:28:13.000;970611853
 REGION CENTRO;INACTIVO;71229539;YULIANA CABELLO ALANYA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-05;2026-05-04 15:28:13.000;970611853
 ;form derv_corre;70054072;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 15:27:46.000;984743997
 REGION AYACUCHO;ACTIVO;70054072;DELIANA GOZME CCAYACC;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 15:27:46.000;984743997
@@ -4379,8 +4402,8 @@ REGION AYACUCHO;ACTIVO;70054072;DELIANA GOZME CCAYACC;Contactado;Se derivo a Ope
 ;form duda;46486794;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 15:10:46.000;957926213
 ;form duda;43143831;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 15:08:15.000;982662524
 ;form derv_corre;26680256;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 15:06:55.000;919036422
-REGION NORTE;INACTIVO;26680256;JULIA CHALAN VALIENTE;Contactado;Se_derivo_a_operaciones;Rosmery;2026-05-06;2026-05-04 15:06:55.000;919036422
 REGION NORTE;INACTIVO;26680256;JULIA CHALAN VALIENTE;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 15:06:55.000;919036422
+REGION NORTE;INACTIVO;26680256;JULIA CHALAN VALIENTE;Contactado;Se_derivo_a_operaciones;Rosmery;2026-05-06;2026-05-04 15:06:55.000;919036422
 ;Reg gen;76923890;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 15:06:23.950;901161857
 ;form duda;46664762;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 15:05:23.000;946664762
 ;Reg gen;48728119;;No contactado;Apagado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 15:05:00.947;914421768
@@ -4393,15 +4416,15 @@ REGION CENTRO ORIENTE;form Apro;72957597;EDWIN TIMOTEO FALCON;Contactado;Se deri
 REGION PUNO NORTE;ACTIVO;72073889;RUTH TAPARA CCAHUANA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 14:49:17.000;989846886
 ;form derv_corre;72073889;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 14:49:17.000;989846886
 ;form duda;70136932;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 14:47:01.000;957067751
-;form derv_corre;29668025;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 14:43:32.000;958718861
-REGION AREQUIPA;ACTIVO;29668025;JOSE AGUILAR QUISPE;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 14:43:32.000;958718861
 REGION AREQUIPA;ACTIVO;29668025;JOSE AGUILAR QUISPE;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 14:43:32.000;958718861
+REGION AREQUIPA;ACTIVO;29668025;JOSE AGUILAR QUISPE;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 14:43:32.000;958718861
+;form derv_corre;29668025;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 14:43:32.000;958718861
 ;form derv_corre;43653239;;Contactado;Se derivo a Operaciones;ENY;2026-05-05;2026-05-04 14:41:06.000;952661661
 ;form duda;29668025;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 14:40:04.000;929668025
 ;form duda;72073889;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 14:37:07.000;989846886
+REGION AYACUCHO;NUEVO;74457557;GABRIELA MUNOZ IZARRA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:25:44.000;929479587
 REGION AYACUCHO;NUEVO;74457557;GABRIELA MUNOZ IZARRA;Contactado;Se_derivo_a_operaciones;Yakeline;2026-05-04;2026-05-04 14:25:44.000;929479587
 REGION CENTRO;form Apro;74457557;GABRIELA MUNOZ IZARRA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:25:44.000;929479587
-REGION AYACUCHO;NUEVO;74457557;GABRIELA MUNOZ IZARRA;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:25:44.000;929479587
 REGION NORTE;ACTIVO;46562846;MARTIN RODRIGUEZ ACEVEDO;Contactado;Se derivo a Operaciones;Lorena ;2026-05-05;2026-05-04 14:25:24.000;926774737
 ;form derv_corre;46562846;;Contactado;Se derivo a Operaciones;LORENA;2026-05-05;2026-05-04 14:25:24.000;926774737
 ;form duda;48378870;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 14:23:17.000;948378870
@@ -4423,8 +4446,8 @@ REGION NORTE;form Apro;41913809;EDUARD MARTINEZ CHUAN;Contactado;Se derivo a Ope
 ;form duda;62251343;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 14:08:09.000;941699320
 ;form duda;70054072;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 14:06:31.000;970054072
 ;form duda;74457557;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 14:06:08.000;929479587
-REGION CENTRO;INACTIVO;73116520;NELIDA ESCOBAR CELESTINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:03:38.000;930638978
 REGION CENTRO;form Apro;73116520;NELIDA ESCOBAR CELESTINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:03:38.000;930638978
+REGION CENTRO;INACTIVO;73116520;NELIDA ESCOBAR CELESTINO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 14:03:38.000;930638978
 ;form duda;47074830;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 14:02:38.000;930832958
 ;form duda;77137292;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 13:59:23.000;910858916
 ;form duda;75764509;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:59:22.000;992422835
@@ -4442,8 +4465,8 @@ REGION CENTRO;ACTIVO;21283525;HIBON CONTRERAS GONZALO;Contactado;Se derivo a Ope
 REGION CENTRO;ACTIVO;23715064;MARISABEL ESPINOZA RODRIGUEZ;Contactado;Se derivo a Operaciones;Rossana ;2026-05-05;2026-05-04 13:49:14.000;903113737
 REGION AYACUCHO;NUEVO;43653239;JORGE QUISPE HUAMANI;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 13:48:18.000;952661661
 REGION AYACUCHO;form Apro;43653239;JORGE QUISPE HUAMANI;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 13:48:18.000;952661661
-REGION CENTRO;ACTIVO;75497740;LAURA UNTIVEROS CANO;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 13:47:50.000;932447841
 ;form derv_corre;75497740;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 13:47:50.000;932447841
+REGION CENTRO;ACTIVO;75497740;LAURA UNTIVEROS CANO;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 13:47:50.000;932447841
 ;form duda;21283525;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:44:01.000;935705680
 ;form duda;73116520;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:43:45.000;930638978
 ;form duda;70602588;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 13:43:26.000;952292321
@@ -4477,11 +4500,11 @@ REGION AREQUIPA;ACTIVO;40037220;ERICKA BERLANGA RIEGA;Contactado;Se derivo a Ope
 ;form duda;40037220;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:26:23.000;970347722
 ;form derv_corre;62935569;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 13:24:56.000;900426704
 REGION CENTRO ORIENTE;ACTIVO;62935569;MIGUEL SHICSHI HUAMAN;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 13:24:56.000;900426704
-REGION PUNO NORTE;ACTIVO;45152102;YENI GUTIERREZ CCARI;Contactado;Se_derivo_a_operaciones;Angie Mayumi;2026-05-04;2026-05-04 13:24:11.000;983024700
 REGION PUNO NORTE;ACTIVO;45152102;YENI GUTIERREZ CCARI;Contactado;Se derivo a Operaciones;Angie ;2026-05-04;2026-05-04 13:24:11.000;983024700
 ;form derv_corre;45152102;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-04;2026-05-04 13:24:11.000;983024700
-REGION AREQUIPA;form Apro;42265277;CHRISTIAN SARMIENTO RAMOS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:20:47.000;958551049
+REGION PUNO NORTE;ACTIVO;45152102;YENI GUTIERREZ CCARI;Contactado;Se_derivo_a_operaciones;Angie Mayumi;2026-05-04;2026-05-04 13:24:11.000;983024700
 REGION AREQUIPA;INACTIVO;42265277;CHRISTIAN SARMIENTO RAMOS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:20:47.000;958551049
+REGION AREQUIPA;form Apro;42265277;CHRISTIAN SARMIENTO RAMOS;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 13:20:47.000;958551049
 ;Reg gen;75052990;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 13:19:25.443;916218424
 ;form duda;76989560;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 13:19:25.000;925828061
 ;form derv_corre;44939031;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 13:18:09.000;913142929
@@ -4491,9 +4514,9 @@ REGION PUNO NORTE;NUEVO;01343081;MARTIN SONCO SANCHEZ;Contactado;Se derivo a Ope
 ;form derv_corre;01343081;;Contactado;Se derivo a Operaciones;LORENA;2026-05-09;2026-05-04 13:17:26.000;953422428
 ;form duda;46281415;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:17:23.000;971069735
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:14:43.000;901803971
-REGION NORTE;ACTIVO;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se_derivo_a_operaciones;Eny;;2026-05-04 13:13:55.000;987248030
 REGION NORTE;ACTIVO;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 13:13:55.000;987248030
 REGION NORTE;form Apro;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 13:13:55.000;987248030
+REGION NORTE;ACTIVO;80243690;ELADIO VASQUEZ ASTONITAS;Contactado;Se_derivo_a_operaciones;Eny;;2026-05-04 13:13:55.000;987248030
 ;form duda;70613416;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:13:37.000;993806122
 ;form duda;46902035;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:13:00.000;901803971
 ;form duda;73450763;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 13:12:50.000;965013708
@@ -4519,21 +4542,21 @@ REGION CENTRO ORIENTE;INACTIVO;48503827;SAIDA NONATO AMBROSIO;Contactado;Se deri
 REGION CENTRO;INACTIVO;48507786;JHON QUISPE CANCHANYA;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 13:02:40.000;914648788
 ;form duda;40709411;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 13:01:59.000;932911945
 ;form duda;43163824;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 13:01:55.000;991022463
+REGION NORTE;ACTIVO;73345622;MARVIN CABRERA PEREZ;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 13:01:27.000;949020336
 ;form derv_corre;73345622;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 13:01:27.000;949020336
 REGION NORTE;ACTIVO;73345622;MARVIN CABRERA PEREZ;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-06;2026-05-04 13:01:27.000;949020336
-REGION NORTE;ACTIVO;73345622;MARVIN CABRERA PEREZ;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 13:01:27.000;949020336
-REGION CUSCO;ACTIVO;48306739;MARISOL DELGADO ROJAS;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 13:00:45.000;969494636
 ;form derv_corre;48306739;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 13:00:45.000;969494636
-REGION CUSCO;ACTIVO;25216734;JUANA GONZALO CONDORI;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 12:59:54.000;931997757
+REGION CUSCO;ACTIVO;48306739;MARISOL DELGADO ROJAS;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 13:00:45.000;969494636
 REGION CUSCO;form Apro;25216734;JUANA GONZALO CONDORI;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 12:59:54.000;931997757
+REGION CUSCO;ACTIVO;25216734;JUANA GONZALO CONDORI;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 12:59:54.000;931997757
 ;Reg gen;71890917;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 12:58:54.750;921730537
 ;form duda;72438872;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 12:58:45.000;942792091
-;form derv_corre;42413373;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 12:57:43.000;992724843
 REGION NORTE;ACTIVO;42413373;MARIA GOICOCHEA BURGA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 12:57:43.000;992724843
+;form derv_corre;42413373;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 12:57:43.000;992724843
 ;form duda;48507786;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 12:57:26.000;914648788
 ;form duda;25216734;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 12:55:29.000;939710455
-REGION CENTRO ORIENTE;INACTIVO;71994365;JHOEL JESUS CARHUAMACA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 12:53:25.000;997453640
 REGION CENTRO ORIENTE;INACTIVO;71994365;JHOEL JESUS CARHUAMACA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-07;2026-05-04 12:53:25.000;997453640
+REGION CENTRO ORIENTE;INACTIVO;71994365;JHOEL JESUS CARHUAMACA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 12:53:25.000;997453640
 ;form derv_corre;71994365;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 12:53:25.000;997453640
 ;Reg gen;24806565;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 12:52:42.000;940905973
 ;form duda;73345622;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 12:52:03.000;949020336
@@ -4548,8 +4571,8 @@ REGION PUNO SUR;INACTIVO;74771959;PASCUAL MACHACA HUANCA;Contactado;Se derivo a 
 ;form duda;72611479;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 12:46:33.000;930549519
 ;Reg gen;71941624;;Contactado;No califica;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 12:45:58.100;964989874
 ;Reg gen;80564114;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-04 12:45:32.373;991936102
-;form derv_corre;72771968;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-09;2026-05-04 12:44:49.000;954245699
 REGION NORTE;ACTIVO;72771968;KOIDIVAN ESCAMILO TORRES;Contactado;Se derivo a Operaciones;Danitza ;2026-05-09;2026-05-04 12:44:49.000;954245699
+;form derv_corre;72771968;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-09;2026-05-04 12:44:49.000;954245699
 ;form duda;45694901;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 12:44:47.000;987890087
 ;form duda;72904038;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 12:44:22.000;972904038
 ;Reg gen;02033680;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 12:44:18.800;994710189
@@ -4561,9 +4584,9 @@ REGION CENTRO;INACTIVO;48786195;LUIS INGA MONTERO;Contactado;Se derivo a operaci
 ;Reg gen;01837033;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-04 12:41:06.923;948887544
 ;form derv_corre;00156437;;Contactado;Se derivo a Operaciones;ENY;2026-05-05;2026-05-04 12:39:28.000;938658984
 ;Reg gen;76384359;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 12:38:39.650;901058513
-REGION CENTRO;INACTIVO;41609985;CHARLIES CANO BARRERA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 12:38:02.000;983268208
 ;form derv_corre;41609985;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 12:38:02.000;983268208
 REGION CENTRO;INACTIVO;41609985;CHARLIES CANO BARRERA;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-05;2026-05-04 12:38:02.000;983268208
+REGION CENTRO;INACTIVO;41609985;CHARLIES CANO BARRERA;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 12:38:02.000;983268208
 ;form duda;47728562;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 12:37:45.000;956971356
 ;Reg gen;77277712;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 12:37:39.940;928092053
 ;form duda;47728562;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 12:36:32.000;956971356
@@ -4579,9 +4602,9 @@ REGION CENTRO;INACTIVO;41609985;CHARLIES CANO BARRERA;Contactado;Se derivo a ope
 ;Reg gen;60020439;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-04 12:33:42.107;963862356
 ;Reg gen;70434633;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-04 12:32:45.823;941644151
 ;Reg gen;70135353;;No contactado;Equivocado;Yakeline Pomacosi Tintaya;;2026-05-04 12:31:23.447;938184020
-;form derv_corre;62340842;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 12:30:21.000;932019589
-REGION CENTRO;INACTIVO;62340842;LESLY INGA RICCE;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 12:30:21.000;932019589
 REGION CENTRO;INACTIVO;62340842;LESLY INGA RICCE;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-06;2026-05-04 12:30:21.000;932019589
+REGION CENTRO;INACTIVO;62340842;LESLY INGA RICCE;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 12:30:21.000;932019589
+;form derv_corre;62340842;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 12:30:21.000;932019589
 ;form duda;46203477;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 12:29:47.000;920187090
 ;Reg gen;48445407;;Contactado;Contacto con familiar;Yakeline Pomacosi Tintaya;;2026-05-04 12:29:43.443;921891794
 ;Reg gen;47698298;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 12:27:33.983;946519819
@@ -4609,9 +4632,9 @@ REGION CENTRO;INACTIVO;62340842;LESLY INGA RICCE;Contactado;Se derivo a Operacio
 ;Reg gen;76505204;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-04 12:13:45.347;989429416
 ;form duda;71994365;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 12:13:10.000;997453640
 ;Reg gen;75988061;;Contactado;Contacto con familiar;DANITZA JULIA JALIRI MAMANI;;2026-05-04 12:13:08.387;923565303
-;form derv_corre;41053491;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 12:12:58.000;946222291
 REGION NORTE;ACTIVO;41053491;SEGUNDO SANCHEZ DIAZ;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-06;2026-05-04 12:12:58.000;946222291
 REGION NORTE;ACTIVO;41053491;SEGUNDO SANCHEZ DIAZ;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 12:12:58.000;946222291
+;form derv_corre;41053491;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 12:12:58.000;946222291
 ;Reg gen;76142984;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-04 12:12:45.030;920232643
 ;form duda;71994365;;Contactado;Cliente en duda;ANGIE MAYUMI;;2026-05-04 12:11:53.000;997453640
 ;Reg gen;78006830;;No contactado;No contesto;DANITZA JULIA JALIRI MAMANI;;2026-05-04 12:11:47.823;920537703
@@ -4640,8 +4663,8 @@ REGION PUNO NORTE;ACTIVO;70161603;FREDY MAMANI LIMA;Contactado;Se derivo a Opera
 ;form duda;70054072;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 11:58:48.000;945158728
 ;Reg gen;70463183;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-04 11:55:01.023;957789338
 ;form derv_corre;43368701;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:53:47.000;935531193
-REGION PUNO NORTE;ACTIVO;43368701;ALEX CHOQUECHAMBI QUISPE;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 11:53:47.000;935531193
 REGION PUNO NORTE;ACTIVO;43368701;ALEX CHOQUECHAMBI QUISPE;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:53:47.000;935531193
+REGION PUNO NORTE;ACTIVO;43368701;ALEX CHOQUECHAMBI QUISPE;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 11:53:47.000;935531193
 ;Reg gen;70322574;;Contactado;Cliente no interesado;DANITZA JULIA JALIRI MAMANI;;2026-05-04 11:53:33.283;931398137
 ;form duda;42378191;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 11:50:36.000;971928791
 ;form duda;74497396;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 11:50:09.000;935566498
@@ -4665,8 +4688,8 @@ REGION AREQUIPA;ACTIVO;75614701;FRANK TAIPE RIMACHE;Contactado;Se derivo a opera
 ;Reg gen;45010988;;Contactado;Cliente en duda;Rossana Panca Pantigoso;;2026-05-04 11:42:15.643;966443410
 ;form duda;44233171;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 11:41:59.000;991465040
 ;Reg gen;09560895;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:41:51.017;981027415
-;form derv_corre;80255504;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:39:59.000;960121251
 REGION PUNO SUR;ACTIVO;80255504;JUAN MAMANI QUISPE;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:39:59.000;960121251
+;form derv_corre;80255504;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:39:59.000;960121251
 ;Reg gen;77908956;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:39:40.570;944045446
 ;Reg gen;76037060;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:38:44.977;916498970
 ;Reg gen;43550498;;Contactado;Contacto con familiar;Yakeline Pomacosi Tintaya;;2026-05-04 11:38:30.683;941977769
@@ -4676,9 +4699,9 @@ REGION PUNO SUR;ACTIVO;80255504;JUAN MAMANI QUISPE;Contactado;Se derivo a Operac
 ;form duda;01343081;;Contactado;Cliente en duda;LORENA;;2026-05-04 11:33:39.000;953422428
 ;form derv_corre;45325233;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:33:37.000;952273167
 REGION NORTE;ACTIVO;45325233;SALDAÑA UGAZ FANY EVA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:33:37.000;952273167
+;form derv_corre;45331777;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 11:33:32.000;973360219
 REGION PUNO NORTE;ACTIVO;45331777;JORGE LIPA MAMANI;Contactado;Se derivo a Operaciones;Rossana ;2026-05-05;2026-05-04 11:33:32.000;973360219
 REGION PUNO NORTE;ACTIVO;45331777;JORGE LIPA MAMANI;Contactado;Se_derivo_a_operaciones;Rossana;2026-05-05;2026-05-04 11:33:32.000;973360219
-;form derv_corre;45331777;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 11:33:32.000;973360219
 ;form duda;75015687;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 11:33:10.000;958121628
 ;form derv_corre;00162998;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 11:30:58.000;944764533
 REGION CENTRO;ACTIVO;00162998;BERNARDO RODRIGUEZ LOZANO;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 11:30:58.000;944764533
@@ -4688,8 +4711,8 @@ REGION CENTRO;ACTIVO;00162998;BERNARDO RODRIGUEZ LOZANO;Contactado;Se derivo a o
 ;form derv_corre;71890870;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:28:17.000;944793800
 REGION NORTE;ACTIVO;71890870;EDILTER TENORIO FERNANDEZ;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:28:17.000;944793800
 ;Reg gen;41658174;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 11:28:15.323;930220004
-REGION CENTRO;INACTIVO;47751383;ADERLIN LAUREANO BALABARCA;Contactado;Se derivo a Operaciones;Lorena ;2026-05-06;2026-05-04 11:27:57.000;943167623
 ;form derv_corre;47751383;;Contactado;Se derivo a Operaciones;LORENA;2026-05-06;2026-05-04 11:27:57.000;943167623
+REGION CENTRO;INACTIVO;47751383;ADERLIN LAUREANO BALABARCA;Contactado;Se derivo a Operaciones;Lorena ;2026-05-06;2026-05-04 11:27:57.000;943167623
 ;form duda;72769050;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 11:27:18.000;958121628
 ;Reg gen;70960813;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 11:25:53.043;947221195
 ;Reg gen;41590594;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 11:25:48.257;966008578
@@ -4714,9 +4737,9 @@ REGION CENTRO;ACTIVO;72102283;MIRIAM CANTARO EVARISTO;Contactado;Se derivo a ope
 REGION CENTRO ORIENTE;form Apro;72137478;SHERLY ATACHAGUA SANCHEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:16:38.000;917179661
 REGION CENTRO ORIENTE;INACTIVO;72137478;SHERLY ATACHAGUA SANCHEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:16:38.000;917179661
 ;Reg gen;43829673;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:16:26.843;958918429
-REGION NORTE;ACTIVO;75159665;EVERLY JULCA SILVA;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 11:15:31.000;937746068
 ;form derv_corre;75159665;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:15:31.000;937746068
 REGION NORTE;ACTIVO;75159665;EVERLY JULCA SILVA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:15:31.000;937746068
+REGION NORTE;ACTIVO;75159665;EVERLY JULCA SILVA;Contactado;Se_derivo_a_operaciones;Lisseth;2026-05-06;2026-05-04 11:15:31.000;937746068
 ;Reg gen;10804702;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 11:15:27.617;967273101
 ;Reg gen;73898446;;Contactado;No califica;JANETT JUANA LEIVA ROJAS;;2026-05-04 11:14:28.647;980942809
 ;Reg gen;73440439;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-04 11:14:22.773;921271154
@@ -4729,8 +4752,8 @@ REGION CENTRO;ACTIVO;00156437;ROBERTO OLORTEGUI ZAPATA;Contactado;Se derivo a Op
 REGION CENTRO;form Apro;00156437;ROBERTO OLORTEGUI ZAPATA;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 11:11:16.000;938658984
 ;Reg gen;40470493;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 11:11:15.323;912468407
 ;Reg gen;09687569;;Contactado;Cliente no interesado;Yakeline Pomacosi Tintaya;;2026-05-04 11:11:11.463;988339807
-REGION PUNO NORTE;ACTIVO;71700937;YENY SONCCO PARQUI;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 11:10:56.000;921593234
 REGION PUNO NORTE;ACTIVO;71700937;YENY SONCCO PARQUI;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-05-06;2026-05-04 11:10:56.000;921593234
+REGION PUNO NORTE;ACTIVO;71700937;YENY SONCCO PARQUI;Contactado;Se derivo a operaciones;Heydi;2026-05-06;2026-05-04 11:10:56.000;921593234
 ;form derv_corre;71700937;;Contactado;Se derivo a Operaciones;HEYDI;2026-05-06;2026-05-04 11:10:56.000;921593234
 ;form derv_corre;46472962;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 11:10:05.000;990264368
 REGION CENTRO;ACTIVO;46472962;LUZMER TAMANI ROJAS;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 11:10:05.000;990264368
@@ -4740,8 +4763,8 @@ REGION CENTRO;ACTIVO;46472962;LUZMER TAMANI ROJAS;Contactado;Se derivo a Operaci
 ;Reg gen;76920240;;Contactado;Cliente no interesado;OLIVIA BELINDA AGUILAR LAURA;;2026-05-04 11:08:44.827;910921569
 ;form duda;61557970;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 11:08:33.000;992434454
 ;Reg gen;01553741;;Contactado;Cliente no interesado;Rossana Panca Pantigoso;;2026-05-04 11:07:51.043;950367126
-;form derv_corre;75619289;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 11:07:37.000;931505626
 REGION CENTRO ORIENTE;INACTIVO;75619289;GEYSIN LEANDRO TINEO;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 11:07:37.000;931505626
+;form derv_corre;75619289;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 11:07:37.000;931505626
 REGION AREQUIPA;NUEVO;45423382;ROCIO CHINCHERCOMA KANA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 11:05:43.000;951621670
 ;form derv_corre;45423382;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 11:05:43.000;951621670
 ;form duda;46472962;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 11:05:39.000;990264368
@@ -4756,8 +4779,8 @@ REGION AREQUIPA;NUEVO;45423382;ROCIO CHINCHERCOMA KANA;Contactado;Se derivo a Op
 ;form duda;33593439;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 10:57:45.000;952914548
 ;form duda;00162998;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:56:34.000;944764533
 ;form duda;45331777;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:56:16.000;973360219
-;form derv_corre;04340687;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 10:56:05.000;956126396
 REGION CENTRO;INACTIVO;04340687;MARIO RIVERA LUNA;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 10:56:05.000;956126396
+;form derv_corre;04340687;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 10:56:05.000;956126396
 ;form duda;48471334;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 10:55:41.000;918360397
 ;form duda;33593439;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 10:54:21.000;952914548
 ;form duda;29116630;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 10:54:16.000;989334142
@@ -4792,8 +4815,8 @@ REGION CENTRO ORIENTE;INACTIVO;23017888;JHANE LOPEZ PAREDES;Contactado;Se derivo
 ;form derv_corre;42493255;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 10:46:38.000;952693565
 REGION CENTRO;ACTIVO;42493255;JULIA GAGO TORIBIO;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 10:46:38.000;952693565
 ;form duda;41732059;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 10:46:21.000;996663653
-;form derv_corre;72224678;;Contactado;Se derivo a Operaciones;HEYDI;2026-04-30;2026-05-04 10:44:49.000;927221959
 REGION NORTE;INACTIVO;72224678;HAROLD CAMPOS CALLE;Contactado;Se derivo a Operaciones;Heydi Carolay ;2026-04-30;2026-05-04 10:44:49.000;927221959
+;form derv_corre;72224678;;Contactado;Se derivo a Operaciones;HEYDI;2026-04-30;2026-05-04 10:44:49.000;927221959
 ;form duda;48268070;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:42:48.000;918829572
 ;form duda;46297707;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:42:34.000;939005520
 ;Reg gen;23166214;;No contactado;Equivocado;Rossana Panca Pantigoso;;2026-05-04 10:42:25.587;993043199
@@ -4813,9 +4836,9 @@ REGION AYACUCHO;ACTIVO;76373414;YIME DELGADILLO CONTRERAS;Contactado;Se derivo a
 ;form duda;76402896;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:35:45.000;918138531
 ;form duda;42674232;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:35:13.000;942674232
 ;form duda;47751383;;Contactado;Cliente en duda;LORENA;;2026-05-04 10:34:35.000;943167623
-REGION CENTRO;ACTIVO;47132567;ALFREDI VASQUEZ FRANCO;Contactado;Se_derivo_a_operaciones;Danitza;2026-05-06;2026-05-04 10:34:24.000;973968535
 ;form derv_corre;47132567;;Contactado;Se derivo a Operaciones;DANITZA;2026-05-06;2026-05-04 10:34:24.000;973968535
 REGION CENTRO;ACTIVO;47132567;ALFREDI VASQUEZ FRANCO;Contactado;Se derivo a Operaciones;Danitza ;2026-05-06;2026-05-04 10:34:24.000;973968535
+REGION CENTRO;ACTIVO;47132567;ALFREDI VASQUEZ FRANCO;Contactado;Se_derivo_a_operaciones;Danitza;2026-05-06;2026-05-04 10:34:24.000;973968535
 ;form duda;70923036;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:34:11.000;982463603
 ;form duda;77236813;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:33:58.000;963798599
 ;form duda;70161603;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 10:33:29.000;951150790
@@ -4823,8 +4846,8 @@ REGION CENTRO;ACTIVO;47132567;ALFREDI VASQUEZ FRANCO;Contactado;Se derivo a Oper
 ;form duda;71229539;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:32:26.000;970611853
 ;form duda;48268070;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:31:08.000;918829572
 ;form duda;71700937;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 10:31:06.000;921593234
-REGION PUNO NORTE;ACTIVO;73812954;ADELAYDA YAMILED PAUCAR SANCHEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-04 10:31:00.000;983138071
 REGION PUNO NORTE;form Apro;73812954;ADELAYDA YAMILED PAUCAR SANCHEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-04 10:31:00.000;983138071
+REGION PUNO NORTE;ACTIVO;73812954;ADELAYDA YAMILED PAUCAR SANCHEZ;Contactado;Se derivo a Operaciones;Yakeline;2026-05-05;2026-05-04 10:31:00.000;983138071
 ;form duda;43365827;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 10:30:41.000;948558881
 ;form duda;23017888;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:30:22.000;910264782
 REGION AYACUCHO;ACTIVO;70215847;RAUL GOMEZ VEGA;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 10:30:18.000;929156850
@@ -4841,8 +4864,8 @@ REGION AYACUCHO;ACTIVO;70215847;RAUL GOMEZ VEGA;Contactado;Se derivo a Operacion
 ;form derv_corre;76459307;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 10:25:41.000;916119479
 REGION CENTRO;ACTIVO;76459307;DENYS CAMPOS PAUCARCAJA;Contactado;Se derivo a Operaciones;Rossana ;2026-05-05;2026-05-04 10:25:41.000;916119479
 ;form duda;41609985;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 10:24:08.000;983268208
-REGION CENTRO ORIENTE;ACTIVO;47290450;NOEMI ISIDRO MAIZ;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-05;2026-05-04 10:24:03.000;910648960
 REGION CENTRO ORIENTE;ACTIVO;47290450;NOEMI ISIDRO MAIZ;Contactado;Se derivo a Operaciones;Angie ;2026-05-05;2026-05-04 10:24:03.000;910648960
+REGION CENTRO ORIENTE;ACTIVO;47290450;NOEMI ISIDRO MAIZ;Contactado;Se derivo a operaciones;Angie Mayumi;2026-05-05;2026-05-04 10:24:03.000;910648960
 ;form derv_corre;47290450;;Contactado;Se derivo a Operaciones;ANGIE;2026-05-05;2026-05-04 10:24:03.000;910648960
 ;form duda;74405790;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 10:23:27.000;992198156
 ;form duda;43368701;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:23:05.000;943368701
@@ -4854,8 +4877,8 @@ REGION NORTE;form Apro;42658802;SAMUEL BARON CASTRO;Contactado;Se derivo a Opera
 ;form duda;47132567;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 10:21:35.000;973968535
 ;form duda;45410478;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:21:21.000;945410478
 ;form duda;47671214;;Contactado;Cliente en duda;LORENA;;2026-05-04 10:20:11.000;949483510
-REGION AYACUCHO;ACTIVO;44776796;NOEMI RODAS ALARCON;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 10:20:03.000;950489888
 ;form derv_corre;44776796;;Contactado;Se derivo a Operaciones;ROSMERY;2026-05-06;2026-05-04 10:20:03.000;950489888
+REGION AYACUCHO;ACTIVO;44776796;NOEMI RODAS ALARCON;Contactado;Se derivo a Operaciones;Rosmery ;2026-05-06;2026-05-04 10:20:03.000;950489888
 ;form duda;70322574;;Contactado;Cliente en duda;LORENA;;2026-05-04 10:19:32.000;931398137
 ;form duda;72102283;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 10:18:42.000;935393205
 ;form duda;72102283;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 10:18:29.000;935393205
@@ -4866,8 +4889,8 @@ REGION AYACUCHO;ACTIVO;44776796;NOEMI RODAS ALARCON;Contactado;Se derivo a Opera
 ;form duda;71840009;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 10:13:54.000;955746957
 REGION PUNO SUR;INACTIVO;77320462;URIEL GINEZ CCALLO;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 10:11:51.000;976236911
 REGION PUNO SUR;form Apro;77320462;URIEL GINEZ CCALLO;Contactado;Se derivo a Operaciones;Eny;2026-05-06;2026-05-04 10:11:51.000;976236911
-;form derv_corre;48442024;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 10:11:44.000;913076840
 REGION AYACUCHO;ACTIVO;48442024;AYDEE SERVA ORIHUELA;Contactado;Se derivo a Operaciones;Rossana ;2026-05-05;2026-05-04 10:11:44.000;913076840
+;form derv_corre;48442024;;Contactado;Se derivo a Operaciones;ROSSANA;2026-05-05;2026-05-04 10:11:44.000;913076840
 ;form duda;30766857;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 10:09:20.000;974319220
 ;form duda;16566057;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 10:09:15.000;972022168
 ;form duda;04339210;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 10:09:14.000;963799435
@@ -4876,8 +4899,8 @@ REGION AYACUCHO;ACTIVO;48442024;AYDEE SERVA ORIHUELA;Contactado;Se derivo a Oper
 ;form duda;44243366;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 10:06:11.000;930279747
 ;form duda;62809774;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:05:49.000;962809774
 ;form duda;47872374;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 10:05:03.000;932331775
-;form derv_corre;41691420;;Contactado;Se derivo a Operaciones;LORENA;2026-05-06;2026-05-04 10:04:37.000;952989814
 REGION CENTRO;INACTIVO;41691420;MILAGROS LAGONES LLANQUI;Contactado;Se derivo a Operaciones;Lorena ;2026-05-06;2026-05-04 10:04:37.000;952989814
+;form derv_corre;41691420;;Contactado;Se derivo a Operaciones;LORENA;2026-05-06;2026-05-04 10:04:37.000;952989814
 ;form duda;75079598;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:04:25.000;975079598
 ;form duda;42783054;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 10:03:16.000;921373213
 ;form duda;80255504;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 10:03:09.000;980255504
@@ -4920,8 +4943,8 @@ REGION NORTE;ACTIVO;73492410;DANTE SANCHEZ CABANILLAS;Contactado;Se derivo a Ope
 ;form duda;42652462;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 09:41:33.000;946961786
 ;form duda;02549524;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 09:41:07.000;940806168
 ;form duda;48146251;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 09:40:20.000;914638308
-REGION CENTRO;ACTIVO;70769938;ESTEFANY COLINA LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 09:39:51.000;969435431
 REGION CENTRO;form Apro;70769938;ESTEFANY COLINA LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 09:39:51.000;969435431
+REGION CENTRO;ACTIVO;70769938;ESTEFANY COLINA LOPEZ;Contactado;Se derivo a Operaciones;Eny;2026-05-05;2026-05-04 09:39:51.000;969435431
 ;form duda;77537590;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 09:39:46.000;953782580
 ;Reg gen;75990426;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 09:38:42.123;922725825
 ;form duda;44939031;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 09:38:36.000;944939031
@@ -4939,14 +4962,14 @@ REGION CENTRO;form Apro;70769938;ESTEFANY COLINA LOPEZ;Contactado;Se derivo a Op
 ;form duda;74601327;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 09:33:18.000;921333055
 ;form duda;73498948;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:32:57.000;973303622
 ;form duda;62275081;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:32:02.000;984402866
-REGION CENTRO ORIENTE;INACTIVO;49022573;ROLAN GUEVARA ALFARO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 09:31:55.000;928200361
 REGION CENTRO ORIENTE;form Apro;49022573;ROLAN GUEVARA ALFARO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 09:31:55.000;928200361
+REGION CENTRO ORIENTE;INACTIVO;49022573;ROLAN GUEVARA ALFARO;Contactado;Se derivo a Operaciones;Yakeline;2026-05-04;2026-05-04 09:31:55.000;928200361
 ;form duda;72705497;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:31:31.000;910858521
 ;form duda;77217023;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:31:13.000;943213071
 ;form duda;01298085;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:30:52.000;958149964
-REGION NORTE;NUEVO;80612509;FELIX HUACHES RUIZ;Contactado;Se derivo a Operaciones;Lorena ;2026-05-06;2026-05-04 09:30:48.000;948874026
 ;form derv_corre;80612509;;Contactado;Se derivo a Operaciones;LORENA;2026-05-06;2026-05-04 09:30:48.000;948874026
 REGION NORTE;NUEVO;80612509;FELIX HUACHES RUIZ;Contactado;Se_derivo_a_operaciones;Lorena;2026-05-06;2026-05-04 09:30:48.000;948874026
+REGION NORTE;NUEVO;80612509;FELIX HUACHES RUIZ;Contactado;Se derivo a Operaciones;Lorena ;2026-05-06;2026-05-04 09:30:48.000;948874026
 ;form duda;75598516;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:30:22.000;901416836
 ;form duda;76373414;;Contactado;Cliente en duda;DINA LUZ;;2026-05-04 09:30:21.000;910638735
 ;form duda;73492410;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:29:53.000;928620334
@@ -4956,8 +4979,8 @@ REGION NORTE;NUEVO;80612509;FELIX HUACHES RUIZ;Contactado;Se_derivo_a_operacione
 ;Reg gen;02448619;;No contactado;Equivocado;JANETT JUANA LEIVA ROJAS;;2026-05-04 09:28:01.720;925390282
 ;form duda;48442024;;Contactado;Cliente en duda;ROSSANA;;2026-05-04 09:27:46.000;913076840
 ;form duda;49022573;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 09:27:15.000;928200361
-REGION AYACUCHO;ACTIVO;48772975;REIDER SANCHEZ GUTIERREZ;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-04 09:26:34.000;954987502
 REGION AYACUCHO;form Apro;48772975;REIDER SANCHEZ GUTIERREZ;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-04 09:26:34.000;954987502
+REGION AYACUCHO;ACTIVO;48772975;REIDER SANCHEZ GUTIERREZ;Contactado;Se derivo a Operaciones;Eny;2026-05-07;2026-05-04 09:26:34.000;954987502
 ;Reg gen;71847045;;Contactado;Cliente no interesado;Romel Maucaylle Rincon;;2026-05-04 09:25:32.267;943501612
 ;form duda;80612509;;Contactado;Cliente en duda;LORENA;;2026-05-04 09:25:07.000;948874026
 ;Reg gen;71442730;;Contactado;Cliente no interesado;JANETT JUANA LEIVA ROJAS;;2026-05-04 09:24:47.470;947783541
@@ -4986,8 +5009,8 @@ REGION NORTE;form Apro;45235229;YAQUELINE ALTAMIRANO FUENTES;Contactado;Se deriv
 ;form duda;44981733;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 09:12:06.000;998854815
 ;form duda;26680256;;Contactado;Cliente en duda;ROSMERY;;2026-05-04 09:10:59.000;919036422
 ;form duda;43883338;;Contactado;Cliente en duda;ENY LIZHET;;2026-05-04 09:10:43.000;982706411
-REGION NORTE;NUEVO;71994575;CESAR VERA BELTRAN;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 09:10:40.000;982864190
 ;form derv_corre;71994575;;Contactado;Se derivo a Operaciones;LISSETH;2026-05-06;2026-05-04 09:10:40.000;982864190
+REGION NORTE;NUEVO;71994575;CESAR VERA BELTRAN;Contactado;Se derivo a Operaciones;Lisseth ;2026-05-06;2026-05-04 09:10:40.000;982864190
 ;form duda;48466344;;Contactado;Cliente en duda;YAKELINE;;2026-05-04 09:09:55.000;930331636
 ;form duda;73766506;;Contactado;Cliente en duda;HEYDI CAROLAY;;2026-05-04 09:09:52.000;983785406
 ;form duda;44578953;;Contactado;Cliente en duda;DANITZA JULIA;;2026-05-04 09:09:47.000;983268001
@@ -5018,6 +5041,6 @@ REGION NORTE;NUEVO;71994575;CESAR VERA BELTRAN;Contactado;Se derivo a Operacione
 ;form duda;48074448;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 08:47:00.000;948074448
 ;form duda;45423382;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 08:46:36.000;945423382
 ;form duda;71994575;;Contactado;Cliente en duda;LISSETH NERY;;2026-05-04 08:46:15.000;971994575
-REGION CUSCO;INACTIVO;71907237;JAIME HUAMANI SENCIA;Contactado;Se derivo a operaciones;Rossana;;;
 REGION NORTE;INACTIVO;44191135;ELVA RUIZ LEIVA;Contactado;Se derivo a operaciones;Lisseth;;;
+REGION CUSCO;INACTIVO;71907237;JAIME HUAMANI SENCIA;Contactado;Se derivo a operaciones;Rossana;;;
 REGION NORTE;INACTIVO;41566036;ALEX ARRUNATEGUI OLAZABAL;Contactado;Se derivo a operaciones;Heydi;;;
